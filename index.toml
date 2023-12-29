@@ -281,18 +281,6 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
-file = "mods/Axiom-2.1.1-for-MC1.20.4.jar"
-hash = "5e7d235900c4e88261181a5e87e45bf4540f44c5ef041828d38fa2198cf70729"
-
-[[files]]
-file = "mods/ClientHarvest-1.0.3.jar"
-hash = "aa8564133736450226330f67bfb15bb40437679da06e0bd6f9b171d77a47649b"
-
-[[files]]
-file = "mods/Sort-1.0.3.jar"
-hash = "1963b6d51ec73b087d896b86cf95ddff1ae46b68aa61e620f0cec671690edd18"
-
-[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "dbb77e04051b2b03c8487110db0eb57bbf27b7ef14f7fd7ab114b3e55d3b83d1"
 metafile = true
@@ -310,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/autorun-fabric.pw.toml"
 hash = "5d5d7de36f0c80ae9b334f19919fab2d234abefb1b662d247018ee6c08fd2178"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "b4e3c62aebcdd4b7db26009c5e15fcdc74e7b4be53391cacb9f02bf5cf6890ab"
 metafile = true
 
 [[files]]
@@ -339,7 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "9c43776c3bfa5de8e6c1241a559c96aaf9e7a05490b5d8c86d4e31c19e11d636"
+hash = "c85c3e680af7e30e2379956a67bd8b0f5d424390f7a130f507143ec4984cc6cd"
+metafile = true
+
+[[files]]
+file = "mods/chat-calc.pw.toml"
+hash = "4da79c61fd5ad2f14616235bc89afa9298edc23e6872c8091317a9b043a4ee01"
 metafile = true
 
 [[files]]
@@ -348,12 +346,13 @@ hash = "ba240aa6caa787631afa19cd31f7f51d8f81c3e2fcfb04e8ce99cb10e789e3a3"
 metafile = true
 
 [[files]]
-file = "mods/chatcalc-3.0.24a.jar"
-hash = "74555bf9830ced9ed2c5cbe210a6e4850c45af599ff2714f9ad6d5c5f806d8a7"
-
-[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "8d109026188bb193ac73ddcc9b0134991a68d296dd6340a5c5847cc8980f2cec"
+metafile = true
+
+[[files]]
+file = "mods/clientharvest.pw.toml"
+hash = "9a8515246566e8d76f64c86f49b2a6d2a43e4b2deea738b99e49a442caa45c85"
 metafile = true
 
 [[files]]
@@ -388,12 +387,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "37ecb4a19c2cc81fc9eef12745ab3817c3ab4dd9ca1070b4defd090ce7d6b277"
+hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d9b58edd17b39ef13d41acc6dd01335b73fbd9abf4916ac4244379d77411ddcc"
+hash = "052cee4a2f1230519fb12dd030dd69990ff35aae840264d40065a0fdcb167ab6"
 metafile = true
 
 [[files]]
@@ -422,8 +421,9 @@ hash = "553a22a24a33cdc98dca96eb2a1410c3031927dfa8661ff6b0446f07c9863239"
 metafile = true
 
 [[files]]
-file = "mods/iris-mc1.20.4-1.6.14.jar"
-hash = "ecdf04e2b7ebf2e96320a78b6ba96fec2a9402528488abfe5e1baee0d390e698"
+file = "mods/iris.pw.toml"
+hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
+metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
@@ -471,8 +471,9 @@ hash = "1e0127b1a7ec019ce2f1a1a5e6d5b0eadd3eec85e422775e3575abdfe2338f20"
 metafile = true
 
 [[files]]
-file = "mods/modmenu-9.0.0.jar"
-hash = "b180249fa2b5e01ee703a987aedefd5e45ee940919c58725e4967d6e7007a0f1"
+file = "mods/modmenu.pw.toml"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
 
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
@@ -515,8 +516,14 @@ hash = "0328ed4697f6384e62e924ffc9c40629d4e400c042b205dd3ca6594790b138bb"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-mc1.20.3-0.5.5.jar"
-hash = "d45f023bbf84b04519107c3de6b71ed90199812ba533e25a3b1060402ba5ac0d"
+file = "mods/sodium.pw.toml"
+hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
+metafile = true
+
+[[files]]
+file = "mods/sort.pw.toml"
+hash = "42952d279cff2b03fc4f326f2c21f9035d99b2fc57cb5ac1f5ae5dd75885124e"
+metafile = true
 
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
@@ -524,8 +531,9 @@ hash = "0c24a52e81c0af4ccb96f90460ebf89c68ad8270330d6a66966825268838824c"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak-fabric-1.20.4-0.1.2.jar"
-hash = "4e47a3fad59cb9aed52b68a96a7cff0ae4b00ee8e1a9f9acf03381f8bfb19e4d"
+file = "mods/threadtweak.pw.toml"
+hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
+metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
