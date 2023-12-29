@@ -565,37 +565,11 @@ file = "options.txt"
 hash = "2be9f127fb437fd112b549a1a9eab4cd470d8c696dba9371f41f2b345f8508ea"
 
 [[files]]
-file = "resourcepacks/VNR-1.0.7.zip"
-hash = "1c327b5724f326106b2742385ec3890f4524a886beea9960838d109f0df20cf0"
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r722689.zip"
-hash = "27b0e632d5300ca9071cd3bb906c7b129aaa53fc50adc0f92589843394f9025c"
-
-[[files]]
-file = "resourcepacks/stratum-128x.zip"
-hash = "1bada19956316ee9dfb0aabf982b64ec63026e36c571a48657be52925b30912c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
-hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip"
-hash = "669d29e01d52bf9d8bb9f63c4c4131e5e5a9e0ebcff397f135803acbf0b88d94"
-
-[[files]]
-file = "shaderpacks/SEUS PTGI E12.zip"
-hash = "929754228be39a7a3407be6f3c7f8f8f6fe84c14319840f9c3bba5695796ee4f"
-
-[[files]]
-file = "shaderpacks/continuum-2.0.5.zip"
-hash = "b57459e85322c5ce5d5e625b2a0242c6a832daa61241dc03e9904b38412ffcce"
-
-[[files]]
-file = "shaderpacks/continuum-2.0.5.zip.txt"
-hash = "a19f247e92eb99a7981a989e573674ddd38a18def600c5b90a83e235d6586628"
-
-[[files]]
-file = "shaderpacks/rethinking-voxels_r0.1_beta2.zip"
-hash = "70d8602d8743925b0d12eb351f3fb8b8fd5298a5d0b44eb2a9833cf8ddef013a"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+metafile = true
