@@ -1,0 +1,13 @@
+name = "Nico's Survival Modpack"
+author = "Nicoladen"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1eed9224c6acb901fe56cca913f11f4f97de39b1c3044d0f9a9248c19ab886c6"
+
+[versions]
+fabric = "0.15.3"
+minecraft = "1.20.4"

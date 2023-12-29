@@ -1,0 +1,13 @@
+name = "AutoRun (Fabric)"
+filename = "autorun-1.20.X-0.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ecb2a2a01f009b2f315daa1db1eb205c2dd8a88f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4590193
+project-id = 279429
