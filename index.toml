@@ -286,6 +286,11 @@ hash = "dbb77e04051b2b03c8487110db0eb57bbf27b7ef14f7fd7ab114b3e55d3b83d1"
 metafile = true
 
 [[files]]
+file = "mods/advanced-ui-scale.pw.toml"
+hash = "c9c046802090a5de07052cfcb49cdcf49409eabdf142aa161f170d0c15374557"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e8872bf4fa9129f93b9703a4287710cb03620037f90ef3bc7fe2752f0d065aec"
 metafile = true
@@ -371,6 +376,11 @@ hash = "1f055429d4f7fccb2a25ba1f4e2a92ce95233440f147f81c248777e7eac5d4a1"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "ece0cdebb81cd56ee950b9ee52376a1822a37e0f85a4f104fedf505c01de5e4d"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "30ac8878dbdb811eb5f7dfc727cfa1c0f272f29efbce57ea05457921a271dd05"
 metafile = true
@@ -411,6 +421,11 @@ hash = "48f8ca009db92b23ea56c3699e1939dbba14d85f99e11a36c6fec1afc4f5df14"
 metafile = true
 
 [[files]]
+file = "mods/frank.pw.toml"
+hash = "a68ae59524ffc379ac7c6d83a4b2bb163dcf8e70ecfdc0592341fe24e7573b22"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "b3f165f30dfcd41601e3327902316be433b84bbba6ae03ac9348c4fcdbab0864"
 metafile = true
@@ -431,6 +446,11 @@ hash = "55a6e99e45313cb3d8bea34f1d7699bb2f4cbc71ad94ef193af0e98254bc67b0"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "b1b968af070dd32cd89723f6b3d1b3a56985c44a5bd3b4b4e3d243912e6ca1ec"
+metafile = true
+
+[[files]]
 file = "mods/ksyxis.pw.toml"
 hash = "37b77a5bbc2cacaac74c86ef7de5e2cb1b84e362f75e84935fc76b33456d35b5"
 metafile = true
@@ -443,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "e75515de6f60227e731affe8077018bd68d8556ebd62032a5e5bd5217b28d44f"
+metafile = true
+
+[[files]]
+file = "mods/librarian-trade-finder.pw.toml"
+hash = "6801f978b12ef390cf48e63a815cd64e7a0ec6b3eed1089edbd8c747b337c16f"
 metafile = true
 
 [[files]]
@@ -476,6 +501,11 @@ hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
 metafile = true
 
 [[files]]
+file = "mods/mtape.pw.toml"
+hash = "867c4ec695c6906df12d38e3034903e022141eba80097583ce626f7f7d0fe3b1"
+metafile = true
+
+[[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "fa53aa40dd031f910a613312d3db1fa9325f213086a23f24b4dde2fae2120700"
 metafile = true
@@ -496,6 +526,11 @@ hash = "a3b1ba2f3d1301e862c984e28be1f02a81eeb05c65017235eab9eb0564205245"
 metafile = true
 
 [[files]]
+file = "mods/quickcraft.pw.toml"
+hash = "be0f1399ff71a02cc6b9c2228cab2708d321313c6c40d47b306a2771d5685e0f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "537989e340ab72ac4a74f98667d679efe979223de560bbf3bc3ccf6daf562eb6"
 metafile = true
@@ -513,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "0328ed4697f6384e62e924ffc9c40629d4e400c042b205dd3ca6594790b138bb"
+metafile = true
+
+[[files]]
+file = "mods/smoothmenu-refabricated.pw.toml"
+hash = "3d148050146de53864628e6f2b20032ed362236bc84f3486df286f8c7bab5f3d"
 metafile = true
 
 [[files]]
@@ -538,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "64832ebbe47d3d4635347a6e29f8ed9eaa9161e3624526c9ad89e5fc0aa4a24e"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "1284253b3e1f796b85023c5788ddd3e90f1331b44d67ecd13eb7f999b64b2683"
 metafile = true
 
 [[files]]
