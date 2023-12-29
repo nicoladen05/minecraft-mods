@@ -286,11 +286,6 @@ hash = "dbb77e04051b2b03c8487110db0eb57bbf27b7ef14f7fd7ab114b3e55d3b83d1"
 metafile = true
 
 [[files]]
-file = "mods/advanced-ui-scale.pw.toml"
-hash = "c9c046802090a5de07052cfcb49cdcf49409eabdf142aa161f170d0c15374557"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e8872bf4fa9129f93b9703a4287710cb03620037f90ef3bc7fe2752f0d065aec"
 metafile = true
