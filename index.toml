@@ -531,6 +531,11 @@ hash = "537989e340ab72ac4a74f98667d679efe979223de560bbf3bc3ccf6daf562eb6"
 metafile = true
 
 [[files]]
+file = "mods/replay-mod-fabric-and-forge.pw.toml"
+hash = "16d885801a525401921c5d79947def1abd11dd40c9bbb2bfa4ce196ce8f03666"
+metafile = true
+
+[[files]]
 file = "mods/satin-api.pw.toml"
 hash = "5d6672d441f9d4e10effa2a59e4c7c0e9c78fa026cb0a5c68da4fb97650647ba"
 metafile = true
