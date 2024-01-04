@@ -13,6 +13,6 @@ mod-id = "Fb4jn8m6"
 version = "Gkt6UcDh"
 
 [option]
-optional = true
-default = true
+optional = "true"
+default = "true"
 description = "Bäume können gefällt werden, indem der unterste Block abgebaut wird."
