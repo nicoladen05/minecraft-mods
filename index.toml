@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "927e119e9a538bc5a8d20689190ab8c42de07d49ac77afafe87c427cd0066706"
+hash = "14555986a563524fa91dc25edcf80d21b9e9e7b1c9235585fc8f69581038af17"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "ba240aa6caa787631afa19cd31f7f51d8f81c3e2fcfb04e8ce99cb10e789e3a3"
+hash = "09300ad8bd8f584254562d4e4341b48e674f9a086600ad721f9c0374aefdf9b9"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/satin-api.pw.toml"
-hash = "5d6672d441f9d4e10effa2a59e4c7c0e9c78fa026cb0a5c68da4fb97650647ba"
+hash = "f53da919deea5aac8975bb54d4dbcf32daa637031df5c318293bec5adcf0535b"
 metafile = true
 
 [[files]]
