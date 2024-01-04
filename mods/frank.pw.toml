@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/JbDI6ogH/versions/udDcvNmb/frank-0.1.1.jar"
 hash-format = "sha1"
-hash = "fa0a5f26d0759ceec1c4a3a9661dd6e256421b80"
+hash = "5185dff00fa6de2dda5991f576ef037d11038504"
 
 [update]
 [update.modrinth]

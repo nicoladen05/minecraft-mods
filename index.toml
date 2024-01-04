@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/frank.pw.toml"
-hash = "a68ae59524ffc379ac7c6d83a4b2bb163dcf8e70ecfdc0592341fe24e7573b22"
+hash = "34c1d7a0d3db93f476e0d28574b473d9fb183cc4b4a39a46af282a1e04584d8f"
 metafile = true
 
 [[files]]
