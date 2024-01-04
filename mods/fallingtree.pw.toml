@@ -1,0 +1,18 @@
+name = "FallingTree"
+filename = "FallingTree-1.20.4-1.20.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fb4jn8m6/versions/Gkt6UcDh/FallingTree-1.20.4-1.20.4.2.jar"
+hash-format = "sha1"
+hash = "da6b46072908603d4fa5833f6effece859c822d0"
+
+[update]
+[update.modrinth]
+mod-id = "Fb4jn8m6"
+version = "Gkt6UcDh"
+
+[option]
+optional = true
+default = true
+description = "Bäume können gefällt werden, indem der unterste Block abgebaut wird."
