@@ -1,6 +1,6 @@
 {
   "Generic": {
-    "autoCollectMaterialListItemCloseGui": true,
+    "autoCollectMaterialListItemCloseGui": false,
     "autoFillContainerThreshold": 2,
     "containerProcessorHintPos": "top_right",
     "containerProcessorHintScale": 1.0,
