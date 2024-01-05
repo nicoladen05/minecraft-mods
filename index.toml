@@ -281,6 +281,11 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "120aed088006e6849cf0ca2f001eff96cd87527053afd941776ba687eb18e159"
+metafile = true
+
+[[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
 hash = "dbb77e04051b2b03c8487110db0eb57bbf27b7ef14f7fd7ab114b3e55d3b83d1"
 metafile = true
@@ -342,7 +347,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "09300ad8bd8f584254562d4e4341b48e674f9a086600ad721f9c0374aefdf9b9"
+hash = "294e759e41ffe7759e056f84b0b25abbfc1ea1f341d8c49de9b7dad26967aa0c"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "c66ca4fd2b94b0ed0cb3002040839aefcb71a8fd08f2dc3337e61f2e4ce28cf9"
 metafile = true
 
 [[files]]
@@ -523,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "a3b1ba2f3d1301e862c984e28be1f02a81eeb05c65017235eab9eb0564205245"
+metafile = true
+
+[[files]]
+file = "mods/player-list-heads.pw.toml"
+hash = "e110a5ec3481df3359ef3cc5482af486f2a0b5e931ae7bd17049b253e9250533"
 metafile = true
 
 [[files]]

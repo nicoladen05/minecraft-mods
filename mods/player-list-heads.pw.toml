@@ -1,0 +1,13 @@
+name = "Player List Heads"
+filename = "PlayerListHeads-1.0-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BYWNSBG3/versions/vmPDiXpC/PlayerListHeads-1.0-1.20.4.jar"
+hash-format = "sha1"
+hash = "1079f0bb4289cd720a37e09b5d59a47fedbefaca"
+
+[update]
+[update.modrinth]
+mod-id = "BYWNSBG3"
+version = "vmPDiXpC"
