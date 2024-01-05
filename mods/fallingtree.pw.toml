@@ -11,3 +11,8 @@ hash = "da6b46072908603d4fa5833f6effece859c822d0"
 [update.modrinth]
 mod-id = "Fb4jn8m6"
 version = "Gkt6UcDh"
+
+[option]
+optional = true
+default = false
+description = "Bäume können gefällt werden, indem nur der unterste Block abgebaut wird."

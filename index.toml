@@ -229,6 +229,10 @@ file = "config/ping-wheel.json"
 hash = "20479fe338392ef760d76f9f05063085111cead593dccea81aa55133297add4d"
 
 [[files]]
+file = "config/replaymod.json"
+hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
+
+[[files]]
 file = "config/sdrp-common.json"
 hash = "d58c92a70bebecd969d22ea69078b4c2b146009793b4c2c715531e844e0ee8e1"
 
@@ -247,6 +251,10 @@ hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
 [[files]]
 file = "config/threadtweak.json"
 hash = "7eb2c9832f1adc79eb19fe0c0262d9cb7ed551cc59f79d4bdcf9373c3194c2c5"
+
+[[files]]
+file = "config/tweakermore.json"
+hash = "59197de6d6f88f80ff9c386138f263e66e5c3c11b9a3cca3180f6fe163b1bebe"
 
 [[files]]
 file = "config/tweakeroo.json"
@@ -422,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "e44276cfce17ead10f132fe382e18ef94bb981dcb29401de9107b9f91430b0a5"
+hash = "05fa655e97f7a69acba0a79ef86235a99aff5adadff8b3b6e441a22a8764b126"
 metafile = true
 
 [[files]]
