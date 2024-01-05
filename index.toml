@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "404aed5b1f0b409771dcd76f8f8f532ad5623d246c69c25e83c0148a79033e32"
+hash = "fbee4beba3814a367ef902eefe9c0c70ba236642873e6e39c7a35ee4abc29e5e"
 metafile = true
 
 [[files]]
@@ -593,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "3da488f9704111bc8337c4e38af0b9515f9e65cd72d23cd628d7e71c73129cb8"
 metafile = true
 
 [[files]]
