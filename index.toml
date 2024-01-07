@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "38695ae7106a9c6f1fc9f48248131b57a552a9b95d8e8a722139953a36af9e59"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
@@ -524,6 +524,11 @@ hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "b73a1ae14953db777b1ec7617280b57285daeb4663cd0d984959e398eb393c59"
+metafile = true
+
+[[files]]
 file = "mods/mtape.pw.toml"
 hash = "867c4ec695c6906df12d38e3034903e022141eba80097583ce626f7f7d0fe3b1"
 metafile = true
@@ -551,6 +556,11 @@ metafile = true
 [[files]]
 file = "mods/player-list-heads.pw.toml"
 hash = "e110a5ec3481df3359ef3cc5482af486f2a0b5e931ae7bd17049b253e9250533"
+metafile = true
+
+[[files]]
+file = "mods/pocketwatch.pw.toml"
+hash = "c42c94afb73e3c44b9f4c86255383ebdf1ad82a2fd01cd25f9917b346046b03d"
 metafile = true
 
 [[files]]
