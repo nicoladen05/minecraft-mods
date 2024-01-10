@@ -290,7 +290,7 @@ hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "120aed088006e6849cf0ca2f001eff96cd87527053afd941776ba687eb18e159"
+hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a3ebf95cc2551d17d8ff642e0ff8b63c74a7c5b89e66c84fc2075bfd5e301e11"
+hash = "031cc65059a4a1f7fddad1e4d265c0e560eb99e02062b3d8470291aad4465af1"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "b4e3c62aebcdd4b7db26009c5e15fcdc74e7b4be53391cacb9f02bf5cf6890ab"
+hash = "e3def660ba63335178116e8bfbfe990d0716c9155671ce583496ca19eb5ea19e"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-taskbar.pw.toml"
-hash = "dd973b79b1d488834baaa3f7369b84fe7e8143f1a54ef4846271281d909c0c37"
+hash = "47554575aa53104fad8ad1b06e786843a636c2a50c584d18cbfbbb088adb9da5"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "14555986a563524fa91dc25edcf80d21b9e9e7b1c9235585fc8f69581038af17"
+hash = "7189eae753a4eda2a1b9c0a5bec639882d2e4893eab95fb82f85146e2084ca1b"
 metafile = true
 
 [[files]]
@@ -415,12 +415,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "6cddeb0f30a5eb57b4ad215e16fdaa81cc5dc79e7249dded91f4a3315e56ee33"
+hash = "7b1b0c2e7765ab3df198db3034a09bd513f6366fad7c8003208e26280bbb441a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "052cee4a2f1230519fb12dd030dd69990ff35aae840264d40065a0fdcb167ab6"
+hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "05fa655e97f7a69acba0a79ef86235a99aff5adadff8b3b6e441a22a8764b126"
+hash = "e4387881ca5dced49e166e498a6ecf455dbd84aa29cdcf5a1c2172fa34d5ab55"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "b73a1ae14953db777b1ec7617280b57285daeb4663cd0d984959e398eb393c59"
+hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
 metafile = true
 
 [[files]]
