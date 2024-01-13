@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
+hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1e0127b1a7ec019ce2f1a1a5e6d5b0eadd3eec85e422775e3575abdfe2338f20"
+hash = "68d30e68a792d54357aad2ae7febb6b471681a65885129968eca453427bfd74e"
 metafile = true
 
 [[files]]
@@ -531,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/mtape.pw.toml"
 hash = "867c4ec695c6906df12d38e3034903e022141eba80097583ce626f7f7d0fe3b1"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "1cdf189428c566c0dadd12367c0c7f9d571023b42b1a0555370df05e94a5783d"
 metafile = true
 
 [[files]]
