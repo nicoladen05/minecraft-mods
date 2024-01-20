@@ -424,11 +424,6 @@ hash = "f8dd69853a48d45c4bf196b5d8c876bcd1a7c48824a400c914f61e94e2ca3276"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-searchability.pw.toml"
-hash = "4c6c4df71c751518f0f0fff360897b94f79c5296399743a8fb1c3fef971d9b78"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
 metafile = true
