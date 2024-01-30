@@ -594,11 +594,6 @@ hash = "be0f1399ff71a02cc6b9c2228cab2708d321313c6c40d47b306a2771d5685e0f"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "16030e5fa385f1c02cfdc7f9beb41f4830c2e915a332ea25ed00eff2d5bd2992"
-metafile = true
-
-[[files]]
 file = "mods/replay-mod-fabric-and-forge.pw.toml"
 hash = "16d885801a525401921c5d79947def1abd11dd40c9bbb2bfa4ce196ce8f03666"
 metafile = true
