@@ -1,13 +1,13 @@
 name = "ClientHarvest"
-filename = "ClientHarvest-1.0.3.jar"
+filename = "ClientHarvest-1.0.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PEvjPU5G/versions/d06m6G4n/ClientHarvest-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/PEvjPU5G/versions/sD8c4QQZ/ClientHarvest-1.0.4.jar"
 hash-format = "sha1"
-hash = "5fe2adda7d4a11c9cb757188c0eb923e96c7a591"
+hash = "8f37803c43a5b3fb00dd23e5f441b7feab8f6ce4"
 
 [update]
 [update.modrinth]
 mod-id = "PEvjPU5G"
-version = "d06m6G4n"
+version = "sD8c4QQZ"
