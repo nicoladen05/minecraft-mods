@@ -639,11 +639,6 @@ hash = "0c24a52e81c0af4ccb96f90460ebf89c68ad8270330d6a66966825268838824c"
 metafile = true
 
 [[files]]
-file = "mods/tap-tab.pw.toml"
-hash = "8ff86995bfe4a19c4e4131cc25fcdf50e84bea25375d1189603d539146f42ffb"
-metafile = true
-
-[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
 metafile = true
