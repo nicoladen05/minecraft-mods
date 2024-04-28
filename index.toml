@@ -434,6 +434,11 @@ hash = "9d0ad2ffc1aa36b584abb02a43a0d0b8b0705baf68833b0f0bfe08abb25f13c5"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "13d6d7e0515aa48629f6c796b4be537010d51c73bf21fba078acf42c74867504"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "4dc7806f7129946f2014ef95533707d04f40bc6dbb8786e2041479522be6273b"
 metafile = true
@@ -486,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/litematica.pw.toml"
 hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
+metafile = true
+
+[[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "c57734531cb1495b765c1bc3488b45566dc3a444ffba34be3f3320dd9d9e47ce"
 metafile = true
 
 [[files]]
@@ -610,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "10b9ddc0d1d4343bff610f2f2b2f5a6af6b1f31fb728658887963d58bfb2fd0b"
+hash = "5711949c4454c6d5ee61b3c19d8a83299d924009d05169a8901c4caccbf9d5bb"
 metafile = true
 
 [[files]]
