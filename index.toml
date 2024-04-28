@@ -319,18 +319,8 @@ hash = "5d5d7de36f0c80ae9b334f19919fab2d234abefb1b662d247018ee6c08fd2178"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "076e38e5c766351948e354a9236e0bb3bd1ef765a4cd92ebf5e2ed2abc53648d"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
-metafile = true
-
-[[files]]
-file = "mods/better-resource-pack-sorting.pw.toml"
-hash = "ed49dd58138e5220c8737cfa43e48e52ff22556986e5bc360c42c50696e866c5"
 metafile = true
 
 [[files]]
@@ -411,11 +401,6 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "774e690b5be887395987aabb847dc4736a3b19fce9fc432b895064918d3c6e0f"
-metafile = true
-
-[[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "aa58e80b2e7736180e29833193fc0370fb50912fd21a08d476a1898c1f7672f6"
 metafile = true
 
 [[files]]
@@ -514,11 +499,6 @@ hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "9524b64c1fbd34ed37d1872290b1bdd7fbbffee79cefb8a7b2a305befb5939ea"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "a60b40bf13dbb92bb17d64eb25bfd383b7e10eaadca1d8d1364bc06d72d92465"
 metafile = true
@@ -571,16 +551,6 @@ metafile = true
 [[files]]
 file = "mods/perspektive.pw.toml"
 hash = "7ca50d50cfe884724ed76ebdb6545a3119f66f81c4e981153fe67ffe28352711"
-metafile = true
-
-[[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "ad7d3e32e1f09772e4533b82ca36c744a03132962db6cfa888a060bed8c9f485"
-metafile = true
-
-[[files]]
-file = "mods/player-list-heads.pw.toml"
-hash = "e110a5ec3481df3359ef3cc5482af486f2a0b5e931ae7bd17049b253e9250533"
 metafile = true
 
 [[files]]
@@ -639,11 +609,6 @@ hash = "0c24a52e81c0af4ccb96f90460ebf89c68ad8270330d6a66966825268838824c"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
-metafile = true
-
-[[files]]
 file = "mods/tweakermore.pw.toml"
 hash = "d547b13c44aa82e00e2ec1a1cb2c12acc38e84d5a771c7912f88a832213b1a76"
 metafile = true
@@ -651,11 +616,6 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "cd55d6298c52f17e360d2166ca5a7fc23083118f761deca96f23f6e90d40a314"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "6f1a3037950a3c8e678c6c035f2156fe3790c629b499ba15c8bd7ec986f92658"
 metafile = true
 
 [[files]]
