@@ -344,11 +344,6 @@ hash = "226fcd38e9dca448afcea21954472d0b5e9b356dbff49a6ef4212cd155d8fde7"
 metafile = true
 
 [[files]]
-file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
-hash = "6c9d846ba2fce5790c4e4a37ae0ad0da356bf7f56a137027cd306960b5c0c606"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "7e5ee2f0c969e8a9792b511c3d53b0ecb61b3a5c7956b98819b319c9f3bb062d"
 metafile = true
