@@ -294,6 +294,11 @@ hash = "720eaf8d5f5b9fecd334d24a7bad4219d720f1a2e35a1e44a39b58cc17b4633b"
 metafile = true
 
 [[files]]
+file = "mods/ace-placer.pw.toml"
+hash = "e6a839370f009142cfc7e7d283b255b90a56dc908b721d4db0c87baeecf6c68f"
+metafile = true
+
+[[files]]
 file = "mods/chat-coords.pw.toml"
 hash = "35c38b26d3149d0bec4f019897e8a6ba57d9c2ad90e891682a66fc08797a2b4d"
 metafile = true
@@ -320,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "022e8ace9cc4a6b9ff3c86d5331bae2a183ecaa3e75d4cf8b82c5734a25e5851"
+hash = "07ae974f1ebcee200aede70701ccddca3f64d8e8767b38bd534702da369f9288"
 metafile = true
 
 [[files]]
@@ -345,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7e5ee2f0c969e8a9792b511c3d53b0ecb61b3a5c7956b98819b319c9f3bb062d"
+hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
@@ -355,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5711949c4454c6d5ee61b3c19d8a83299d924009d05169a8901c4caccbf9d5bb"
+hash = "e48e9b9521e309c5ac808f98bd75f2364747b1dd834235dda2de361e9e860584"
 metafile = true
 
 [[files]]
