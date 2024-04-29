@@ -289,6 +289,31 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "720eaf8d5f5b9fecd334d24a7bad4219d720f1a2e35a1e44a39b58cc17b4633b"
+metafile = true
+
+[[files]]
+file = "mods/chat-coords.pw.toml"
+hash = "35c38b26d3149d0bec4f019897e8a6ba57d9c2ad90e891682a66fc08797a2b4d"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "76dbe46bfee94f99f52feca4db16ddc8f5be4a1c6779124fcaedf7170ae961b1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "0e9571ad3d425b94dc96cd5fe39a797fe8cab4c724152282e1d1dda9cf50650c"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "2c372d59e6d4637d2a2e7f96d35efe36ae4db40ae08c43e78aa8cbea4d5221d0"
 metafile = true
@@ -309,13 +334,18 @@ hash = "05fe4ad14dc2916a159c350df110ffbd1b92555ce100211d2e018a9afdfd59da"
 metafile = true
 
 [[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "c57734531cb1495b765c1bc3488b45566dc3a444ffba34be3f3320dd9d9e47ce"
+file = "mods/modmenu.pw.toml"
+hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+file = "mods/peek.pw.toml"
+hash = "226fcd38e9dca448afcea21954472d0b5e9b356dbff49a6ef4212cd155d8fde7"
+metafile = true
+
+[[files]]
+file = "mods/remote-player-waypoints-for-xaeros-map.pw.toml"
+hash = "6c9d846ba2fce5790c4e4a37ae0ad0da356bf7f56a137027cd306960b5c0c606"
 metafile = true
 
 [[files]]
@@ -324,8 +354,18 @@ hash = "7e5ee2f0c969e8a9792b511c3d53b0ecb61b3a5c7956b98819b319c9f3bb062d"
 metafile = true
 
 [[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "91f21d0d8a0bac8f0e315fc586af97ef529b20ba0fbd2da381bfc75212aee0da"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "5711949c4454c6d5ee61b3c19d8a83299d924009d05169a8901c4caccbf9d5bb"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c84c3a6a2f3c8966169d20a1a48a3b4daa13dbde433a397378508853bc5b50a1"
 metafile = true
 
 [[files]]
