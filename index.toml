@@ -299,6 +299,11 @@ hash = "e6a839370f009142cfc7e7d283b255b90a56dc908b721d4db0c87baeecf6c68f"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "19716c2b341c0883ca1eea0c010b82fd8b9c190bb0649513f7c03bf4588143ba"
+metafile = true
+
+[[files]]
 file = "mods/chat-coords.pw.toml"
 hash = "35c38b26d3149d0bec4f019897e8a6ba57d9c2ad90e891682a66fc08797a2b4d"
 metafile = true
@@ -330,12 +335,17 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "13d6d7e0515aa48629f6c796b4be537010d51c73bf21fba078acf42c74867504"
+hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "05fe4ad14dc2916a159c350df110ffbd1b92555ce100211d2e018a9afdfd59da"
+hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "3b2195cbd270f97d07566eb94f1cbd14be47baef9d330852577765388bbe57c5"
 metafile = true
 
 [[files]]
@@ -370,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c84c3a6a2f3c8966169d20a1a48a3b4daa13dbde433a397378508853bc5b50a1"
+hash = "00f143ea655549e902548575aff0fbffee69802bfe76a73b35187b05c690af07"
 metafile = true
 
 [[files]]
