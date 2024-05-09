@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "0e9571ad3d425b94dc96cd5fe39a797fe8cab4c724152282e1d1dda9cf50650c"
+hash = "60f072b5e01439bcf0fac3351bf732f03fba64ed252a21202b248f4b94651b5f"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "3b2195cbd270f97d07566eb94f1cbd14be47baef9d330852577765388bbe57c5"
+hash = "d157b9199d778da79cc8a08a57b4ba998cea1a57b75c54ca5b3a9892a05996ce"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e48e9b9521e309c5ac808f98bd75f2364747b1dd834235dda2de361e9e860584"
+hash = "ab10da52f23ab66a82d1593cccda8daa637fcc5b9bc296453f26d1aa439ecd85"
 metafile = true
 
 [[files]]
