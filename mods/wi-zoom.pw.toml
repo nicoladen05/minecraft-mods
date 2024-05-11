@@ -1,13 +1,13 @@
 name = "WI Zoom"
-filename = "WI-Zoom-1.5-MC1.20.5.jar"
+filename = "WI-Zoom-1.5-MC1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/o7DitHWP/versions/9brAZOSI/WI-Zoom-1.5-MC1.20.5.jar"
+url = "https://cdn.modrinth.com/data/o7DitHWP/versions/ycgAvYkZ/WI-Zoom-1.5-MC1.20.6.jar"
 hash-format = "sha1"
-hash = "ae0e135ec611cdb279bbe638718f9099b82c069b"
+hash = "8f80f6a43dd425188b3657cb208500f1a538c203"
 
 [update]
 [update.modrinth]
 mod-id = "o7DitHWP"
-version = "9brAZOSI"
+version = "ycgAvYkZ"

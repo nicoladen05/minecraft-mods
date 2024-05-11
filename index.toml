@@ -290,12 +290,22 @@ hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "720eaf8d5f5b9fecd334d24a7bad4219d720f1a2e35a1e44a39b58cc17b4633b"
+hash = "7e51c6403d6638076239bb08284aceb057e9d35411bf9c7edf06ca5ba935ded5"
 metafile = true
 
 [[files]]
-file = "mods/ace-placer.pw.toml"
-hash = "e6a839370f009142cfc7e7d283b255b90a56dc908b721d4db0c87baeecf6c68f"
+file = "mods/appleskin.pw.toml"
+hash = "78f81a35b42b2794f338ef848a49354886751d577ac919739916861d7bd9e08d"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "39e6075ff7f1f517047915b79293e3fd84a15adcadb0553ce243f9e3f52a4cf0"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "84aff1dbe507de81e3f7cef7011f7e97ec557c40f0164cbd0b8640a4899ef48a"
 metafile = true
 
 [[files]]
@@ -304,13 +314,13 @@ hash = "19716c2b341c0883ca1eea0c010b82fd8b9c190bb0649513f7c03bf4588143ba"
 metafile = true
 
 [[files]]
-file = "mods/chat-coords.pw.toml"
-hash = "35c38b26d3149d0bec4f019897e8a6ba57d9c2ad90e891682a66fc08797a2b4d"
+file = "mods/chat-heads.pw.toml"
+hash = "76dbe46bfee94f99f52feca4db16ddc8f5be4a1c6779124fcaedf7170ae961b1"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "76dbe46bfee94f99f52feca4db16ddc8f5be4a1c6779124fcaedf7170ae961b1"
+file = "mods/cherished-worlds.pw.toml"
+hash = "5ee35b6ed793c0dfab28cf308784503a1450b7536f5c72ae31a3433115787366"
 metafile = true
 
 [[files]]
@@ -325,12 +335,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2c372d59e6d4637d2a2e7f96d35efe36ae4db40ae08c43e78aa8cbea4d5221d0"
+hash = "b7e6e46a2d481a911df481f6c694c350fd81da871cd646b13e826bdef3a63081"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07ae974f1ebcee200aede70701ccddca3f64d8e8767b38bd534702da369f9288"
+hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "d557c0b73a411243075e2d44aa2fef95c04e01338b5ec65b5dc53df12c20b4c6"
 metafile = true
 
 [[files]]
@@ -349,13 +364,18 @@ hash = "d157b9199d778da79cc8a08a57b4ba998cea1a57b75c54ca5b3a9892a05996ce"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
 metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "226fcd38e9dca448afcea21954472d0b5e9b356dbff49a6ef4212cd155d8fde7"
+hash = "9b516be397335af26454dfd1bcae159859bda4ccb4d748a86f972e4b8a35dc1c"
 metafile = true
 
 [[files]]
@@ -364,8 +384,13 @@ hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
+file = "mods/srdp.pw.toml"
+hash = "623aeb78a4735945f4654900098a60bcde3229d71c725b65124584fef6bf2120"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "91f21d0d8a0bac8f0e315fc586af97ef529b20ba0fbd2da381bfc75212aee0da"
+hash = "6b1b5d0ab3feb36e20a2f758ddcaba0b42e8e27108199529b3a8cb37257cc5c1"
 metafile = true
 
 [[files]]
