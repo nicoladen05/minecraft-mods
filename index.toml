@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "d557c0b73a411243075e2d44aa2fef95c04e01338b5ec65b5dc53df12c20b4c6"
+hash = "f58fcc565bd87025bbf7dc57e583ab195291d6c46f29e745a04f065000f0ea38"
 metafile = true
 
 [[files]]
