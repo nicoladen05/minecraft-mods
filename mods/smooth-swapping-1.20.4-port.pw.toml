@@ -11,3 +11,8 @@ hash = "c42b7bffbe7d28eaf7fd6544156830db924e990f"
 [update.modrinth]
 mod-id = "2EmFO72Z"
 version = "1avbSJht"
+
+[option]
+optional = true
+default = false
+description = "Smooth Swapping 1.20.4 Port"
