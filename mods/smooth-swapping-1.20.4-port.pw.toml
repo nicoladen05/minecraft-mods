@@ -1,0 +1,13 @@
+name = "Smooth Swapping 1.20.4 Port"
+filename = "smoothswapping-0.9.2-1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2EmFO72Z/versions/1avbSJht/smoothswapping-0.9.2-1.20.4-fabric.jar"
+hash-format = "sha1"
+hash = "c42b7bffbe7d28eaf7fd6544156830db924e990f"
+
+[update]
+[update.modrinth]
+mod-id = "2EmFO72Z"
+version = "1avbSJht"

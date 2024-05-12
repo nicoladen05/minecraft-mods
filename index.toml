@@ -289,8 +289,17 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
+file = "essential/config.toml"
+hash = "672fa9d8847007b814245271334409fdc32777ac93ed16e3d70d2afa73c4efd1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7e51c6403d6638076239bb08284aceb057e9d35411bf9c7edf06ca5ba935ded5"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "4bb6c6b3c7a44d3504b76c005c5e462a4c4b0653bd42633528adbdfca845b604"
 metafile = true
 
 [[files]]
@@ -306,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "84aff1dbe507de81e3f7cef7011f7e97ec557c40f0164cbd0b8640a4899ef48a"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "2a180ac45ca51b80b389e5973d845807c639c9c3e20cfe5660df541f1677e556"
 metafile = true
 
 [[files]]
@@ -334,8 +348,38 @@ hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "b172bf1fb34b3da0fd6a3aa1a47fc86eb9bf908362e2a0edf7bfdd4c7fe85de1"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "60f072b5e01439bcf0fac3351bf732f03fba64ed252a21202b248f4b94651b5f"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "a6146a0a30ce75892942ed8bab7c40382d3c29fba12fc531866837d4f6cddba9"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4e596f70957b214851ee57422d421ec59037425f5b209fc5813d44918d91c1b9"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
 metafile = true
 
 [[files]]
@@ -344,8 +388,23 @@ hash = "b7e6e46a2d481a911df481f6c694c350fd81da871cd646b13e826bdef3a63081"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "820ddfb37e28091c391d0624d8f46ec61834db9d61f06a414d12798dddd4d3c8"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "cf81e225040e3eb94c553d83a67941bbe59e71cf8e9a276ffbf2ecb52b1c9852"
 metafile = true
 
 [[files]]
@@ -354,13 +413,43 @@ hash = "f58fcc565bd87025bbf7dc57e583ab195291d6c46f29e745a04f065000f0ea38"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
 metafile = true
 
 [[files]]
+file = "mods/full-brightness-toggle.pw.toml"
+hash = "15c3ecb7673077d7794a9b5ebe575256bf8b6f87f9f2125b6c74d3bdb0c5625f"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "5ae30c0da7c5f31bcb1daaa5fdc8a58f543c1cc60e0be352446aab0ce41562ca"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "212d6eaa63329d9e143ca1857e09fe9aab6d44f20654ab66c2fd4b672020215d"
 metafile = true
 
 [[files]]
@@ -379,6 +468,21 @@ hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "5c0dfc69736a9d187228e3964f1ae7baf33179f18e7d6862992b874689e49729"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "09af0f6e3655c1ba6c786d514c8d050a32a7d0a5d7cf04bf6196b3195b2e5599"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
+metafile = true
+
+[[files]]
 file = "mods/peek.pw.toml"
 hash = "9b516be397335af26454dfd1bcae159859bda4ccb4d748a86f972e4b8a35dc1c"
 metafile = true
@@ -389,13 +493,38 @@ hash = "251d13b0ea044724495cbe9cb52ef9ca6695e84e3e72f9874b2811794ae178a4"
 metafile = true
 
 [[files]]
+file = "mods/smooth-swapping-1.20.4-port.pw.toml"
+hash = "908f8a61a46f844697ac6d500b230ec61143ea195b02202d45d29fedb4b4378a"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7488cb9179fb2eaacb5524ed7e14e7497e2a0d1b279684cfdc561170de351f01"
+metafile = true
+
+[[files]]
 file = "mods/srdp.pw.toml"
 hash = "623aeb78a4735945f4654900098a60bcde3229d71c725b65124584fef6bf2120"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "3911aa68437510b441ce4c5952c9164fce6c1181d34791bc443119616169844f"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "f16e8ee55fc2a9c4516cf506d2748d754446512a686ffa808957a090d31f0358"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "784b9259ec40d61d24c21cd5db9580cf856594f9185cd57527e72a414d54b129"
 metafile = true
 
 [[files]]

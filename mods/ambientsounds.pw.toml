@@ -1,0 +1,18 @@
+name = "AmbientSounds"
+filename = "AmbientSounds_FABRIC_v5.3.9_mc1.20.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/4Oi6qbIh/AmbientSounds_FABRIC_v5.3.9_mc1.20.6.jar"
+hash-format = "sha1"
+hash = "422462a545d7e1098d91a8d9b0652232c40ff382"
+
+[update]
+[update.modrinth]
+mod-id = "fM515JnW"
+version = "4Oi6qbIh"
+
+[option]
+optional = true
+default = false
+description = "Spielt Umgebungsgeräusche je nach Biom ab."
