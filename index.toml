@@ -384,6 +384,11 @@ hash = "9b516be397335af26454dfd1bcae159859bda4ccb4d748a86f972e4b8a35dc1c"
 metafile = true
 
 [[files]]
+file = "mods/smartblockplacement.pw.toml"
+hash = "251d13b0ea044724495cbe9cb52ef9ca6695e84e3e72f9874b2811794ae178a4"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
