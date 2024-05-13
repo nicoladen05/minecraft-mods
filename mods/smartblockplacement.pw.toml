@@ -1,13 +1,13 @@
 name = "SmartBlockPlacement"
-filename = "SmartBlockPlacement-1.1.jar"
+filename = "SmartBlockPlacement-1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WVehudAZ/versions/3qBpd7zK/SmartBlockPlacement-1.1.jar"
+url = "https://cdn.modrinth.com/data/WVehudAZ/versions/yR44hYJW/SmartBlockPlacement-1.2.jar"
 hash-format = "sha1"
-hash = "4fc606dc0cfc5f77afe3c191eec870203bc51da6"
+hash = "ebd98bbb24c6e73b71b1742197115db0e94f0d37"
 
 [update]
 [update.modrinth]
 mod-id = "WVehudAZ"
-version = "3qBpd7zK"
+version = "yR44hYJW"

@@ -488,8 +488,18 @@ hash = "9b516be397335af26454dfd1bcae159859bda4ccb4d748a86f972e4b8a35dc1c"
 metafile = true
 
 [[files]]
+file = "mods/replanter-plus.pw.toml"
+hash = "f004f26da926b510ce15fb1836c42fe3a9179076285bc6183762e9f3470dbbd5"
+metafile = true
+
+[[files]]
 file = "mods/smartblockplacement.pw.toml"
-hash = "251d13b0ea044724495cbe9cb52ef9ca6695e84e3e72f9874b2811794ae178a4"
+hash = "73b36977116acfdaeb7d0cd7117e0a9aab3eb312d129a0d214e77f7f3df3bb00"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-refurbished.pw.toml"
+hash = "a305ea4ebe2cfe73858dcfd821d1dcb90df6116e6f2ba25ce7383d397d419bfb"
 metafile = true
 
 [[files]]
