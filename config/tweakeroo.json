@@ -14,6 +14,7 @@
     "handRestockPre": true,
     "hangableEntityBypassInverse": false,
     "itemUsePacketCheckBypass": true,
+    "mapPreviewRequireShift": true,
     "permanentSneakAllowInGUIs": false,
     "placementRestrictionTiedToFast": true,
     "potionWarningBeneficialOnly": true,
@@ -30,7 +31,7 @@
     "breakingRestrictionMode": "line",
     "elytraCameraIndicator": "with_key",
     "entityTypeAttackRestrictionWarn": "message",
-    "placementRestrictionMode": "face",
+    "placementRestrictionMode": "plane",
     "hotbarSwapOverlayAlignment": "bottom_right",
     "snapAimMode": "yaw",
     "chatTimeFormat": "[HH:mm:ss]",
@@ -39,8 +40,10 @@
     "snapAimIndicatorColor": "#603030FF",
     "afterClickerClickCount": 1,
     "blockReachDistance": 4.5,
+    "angelBlockPlacementDistance": 3.0,
     "breakingGridSize": 3,
     "customInventoryGuiScale": 2,
+    "entityReachDistance": 3.0,
     "fastBlockPlacementCount": 2,
     "fastLeftClickCount": 10,
     "fastRightClickCount": 10,
@@ -81,10 +84,10 @@
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
-      "keys": ""
+      "keys": "X"
     },
     "accurateBlockPlacementReverse": {
-      "keys": ""
+      "keys": "Z"
     },
     "breakingRestrictionModeColumn": {
       "keys": ""
@@ -114,10 +117,10 @@
       "keys": ""
     },
     "flexibleBlockPlacementOffset": {
-      "keys": "B"
+      "keys": "LEFT_ALT"
     },
     "flexibleBlockPlacementRotation": {
-      "keys": ""
+      "keys": "B"
     },
     "flyPreset1": {
       "keys": ""
@@ -226,17 +229,6 @@
       "minecraft:budding_amethyst"
     ],
     "blockTypeBreakRestrictionWhiteList": [],
-    "creativeExtraItems": [
-      "minecraft:command_block",
-      "minecraft:chain_command_block",
-      "minecraft:repeating_command_block",
-      "minecraft:dragon_egg",
-      "minecraft:structure_void",
-      "minecraft:structure_block",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"SAVE\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"LOAD\"}}",
-      "minecraft:structure_block{BlockEntityTag:{mode:\"CORNER\"}}"
-    ],
     "entityTypeAttackRestrictionListType": "blacklist",
     "entityTypeAttackRestrictionBlackList": [
       "minecraft:villager"
@@ -706,7 +698,7 @@
     }
   },
   "TweakToggles": {
-    "tweakAccurateBlockPlacement": false,
+    "tweakAccurateBlockPlacement": true,
     "tweakAfterClicker": false,
     "tweakAimLock": false,
     "tweakAngelBlock": false,
@@ -721,6 +713,7 @@
     "tweakCustomFlyDeceleration": false,
     "tweakCustomInventoryScreenScale": false,
     "tweakElytraCamera": false,
+    "tweakEntityReachOverride": false,
     "tweakEntityTypeAttackRestriction": false,
     "tweakEmptyShulkerBoxesStack": false,
     "tweakEmptyShulkerBoxesStackOnGround": false,
@@ -735,7 +728,7 @@
     "tweakFlySpeed": false,
     "tweakFlexibleBlockPlacement": true,
     "tweakFreeCamera": false,
-    "tweakGammaOverride": false,
+    "tweakGammaOverride": true,
     "tweakHandRestock": true,
     "tweakHangableEntityBypass": false,
     "tweakHoldAttack": false,
@@ -830,6 +823,9 @@
     "tweakElytraCamera": {
       "keys": ""
     },
+    "tweakEntityReachOverride": {
+      "keys": ""
+    },
     "tweakEntityTypeAttackRestriction": {
       "keys": ""
     },
@@ -852,7 +848,7 @@
       "keys": ""
     },
     "tweakFastBlockPlacement": {
-      "keys": ""
+      "keys": "X,B"
     },
     "tweakFastLeftClick": {
       "keys": ""
@@ -873,7 +869,7 @@
       "keys": "X,F"
     },
     "tweakGammaOverride": {
-      "keys": ""
+      "keys": "X,G"
     },
     "tweakHandRestock": {
       "keys": "X,R"
@@ -939,7 +935,7 @@
       "keys": ""
     },
     "tweakPlacementRestriction": {
-      "keys": ""
+      "keys": "X,Z"
     },
     "tweakPlacementRestrictionFirst": {
       "keys": ""
@@ -1005,7 +1001,7 @@
       "keys": ""
     },
     "tweakToolSwitch": {
-      "keys": ""
+      "keys": "X,T"
     },
     "tweakWeaponSwitch": {
       "keys": ""
