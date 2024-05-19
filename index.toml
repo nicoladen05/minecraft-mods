@@ -289,10 +289,6 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
-file = "essential/config.toml"
-hash = "672fa9d8847007b814245271334409fdc32777ac93ed16e3d70d2afa73c4efd1"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7e51c6403d6638076239bb08284aceb057e9d35411bf9c7edf06ca5ba935ded5"
 metafile = true
@@ -398,11 +394,6 @@ hash = "b7e6e46a2d481a911df481f6c694c350fd81da871cd646b13e826bdef3a63081"
 metafile = true
 
 [[files]]
-file = "mods/essential.pw.toml"
-hash = "7566866f47654836d5747b4b0130d4ef175db6674d0f3b1df4d0cd656d81a2ec"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
 metafile = true
@@ -501,11 +492,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "5c0dfc69736a9d187228e3964f1ae7baf33179f18e7d6862992b874689e49729"
 metafile = true
 
 [[files]]
