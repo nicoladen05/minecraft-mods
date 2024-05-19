@@ -468,14 +468,30 @@ hash = "eefd715cb5d3202f9779c1c713586cf33c2d6ebded375981c21235af26e12f0d"
 metafile = true
 
 [[files]]
+file = "mods/itemscroller-fabric-1.20.6-0.22.999-sakura.1.jar"
+hash = "aa6ef762c6428780c5a2f902f3b9db8174b35eb3381d4df419b426b79ad09c70"
+
+[[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "212d6eaa63329d9e143ca1857e09fe9aab6d44f20654ab66c2fd4b672020215d"
 metafile = true
 
 [[files]]
+file = "mods/litematica-fabric-1.20.6-0.17.999-sakura.2.jar"
+hash = "8b8ab90c58e072968ec515fa031126a2405843449bd14df76f7fcc0f964551fe"
+
+[[files]]
+file = "mods/malilib-fabric-1.20.6-0.18.999-sakura.1.jar"
+hash = "403ce6cded8ccf4d30ad374f9cde2a36b7510181655c66b0287156b8c1f4c95b"
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "d157b9199d778da79cc8a08a57b4ba998cea1a57b75c54ca5b3a9892a05996ce"
 metafile = true
+
+[[files]]
+file = "mods/minihud-fabric-1.20.6-0.30.999-sakura.1.jar"
+hash = "d7b3452aab5fb6e5c7dbb496f3f5fc044fe26e75d76f41f561790cc8bd7fcf3e"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
@@ -533,6 +549,11 @@ hash = "8f20518e15d22ac5e81275218df015a13b46686fc28b1cacb936c71c934d0171"
 metafile = true
 
 [[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
@@ -551,6 +572,10 @@ metafile = true
 file = "mods/tiny-item-animations.pw.toml"
 hash = "3911aa68437510b441ce4c5952c9164fce6c1181d34791bc443119616169844f"
 metafile = true
+
+[[files]]
+file = "mods/tweakeroo-fabric-1.20.6-0.19.999-sakura.2.jar"
+hash = "b8ef367f68f88af128218229a87081d7944ea19ee209c0c0449196b6d31e4dd5"
 
 [[files]]
 file = "mods/visuality.pw.toml"
