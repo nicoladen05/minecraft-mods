@@ -142,6 +142,10 @@ hash = "7e51c6403d6638076239bb08284aceb057e9d35411bf9c7edf06ca5ba935ded5"
 metafile = true
 
 [[files]]
+file = "mods/DistantHorizons-fabric-2.0.4-a-dev-1.20.6.jar"
+hash = "e6c3ca13af20eaab6ae066ecec80320126b5fb2860a3781de1dca7e3e499d897"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "ae53ec208bbefaea323ff08384f8fa5e11c828e5385107cbf5250cb2d5443598"
 metafile = true
@@ -234,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "f0516dc2874e0555419b501f115173820dcd1fdaaedd8d57d32e1e907980634c"
+metafile = true
+
+[[files]]
+file = "mods/eclipses-tweakeroo-additions.pw.toml"
+hash = "1142d2cac8e440daefc7ab08c20d1f28e19a948546388cb1a6a5ba7d99ae15c1"
 metafile = true
 
 [[files]]
