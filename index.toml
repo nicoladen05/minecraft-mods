@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "39e6075ff7f1f517047915b79293e3fd84a15adcadb0553ce243f9e3f52a4cf0"
+hash = "715ccddd4fe98db07d252a94feeff5253f0fd8625b6a60d1e7531af4db6a9639"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7dd58365d2fa6078d5113b70b05ff466a6f428d62acd342e5be006cb9d99ab75"
+hash = "362ead99d9fdf21965e2544b434a8483ca12a5fd5d487da60c8a03bc2f568592"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+hash = "d80ddf72ebc03bb698043968c2b06272fbbbcf45927e67083d19e65f322b1ca9"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
+hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/replanter-plus.pw.toml"
-hash = "f004f26da926b510ce15fb1836c42fe3a9179076285bc6183762e9f3470dbbd5"
+hash = "8b46bb346ba5e2c12ef33b4bea1f478b82ad35e28b2c8e57b09eaba4b2209538"
 metafile = true
 
 [[files]]
