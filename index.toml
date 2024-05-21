@@ -296,6 +296,11 @@ hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
 metafile = true
 
 [[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "41ccce4d7a32d8e62036d7d6b6e0092dcf50a6c1e1eb43343110a72a69bba85a"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
