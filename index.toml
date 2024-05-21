@@ -105,6 +105,10 @@ file = "config/peek/peek.properties"
 hash = "bfa5754e7f8f53ecc85feb1f0eeafde3430d2ea47bc64701d662500c7140bbbd"
 
 [[files]]
+file = "config/sdrp-common.json"
+hash = "fc5ca865f4f027189b5894c421fd99588e0916f27915d29bb1dcf068a510a28f"
+
+[[files]]
 file = "config/tweakeroo.json"
 hash = "a53c34fb39f3384eb15b3c799ed0656e620e0525cf336b2ad615eb24cbcb949b"
 
