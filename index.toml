@@ -382,11 +382,6 @@ hash = "96060e86144dbf78ce51cde64c9dc1cb79072acdb31d103cb205be21f8ba8357"
 metafile = true
 
 [[files]]
-file = "mods/replanter-plus.pw.toml"
-hash = "8b46bb346ba5e2c12ef33b4bea1f478b82ad35e28b2c8e57b09eaba4b2209538"
-metafile = true
-
-[[files]]
 file = "mods/smartblockplacement.pw.toml"
 hash = "73b36977116acfdaeb7d0cd7117e0a9aab3eb312d129a0d214e77f7f3df3bb00"
 metafile = true
