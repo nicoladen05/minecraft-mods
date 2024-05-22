@@ -362,6 +362,11 @@ hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "839bf2a1076a44c572c46c402ef5603d28e772cb5e791011c3c04d94656e48d5"
+metafile = true
+
+[[files]]
 file = "mods/peek.pw.toml"
 hash = "9b516be397335af26454dfd1bcae159859bda4ccb4d748a86f972e4b8a35dc1c"
 metafile = true
@@ -428,11 +433,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "47dddf611d70f7d64bae2084265a60d19d537054922c7412df6ddbed511aeb3d"
-metafile = true
-
-[[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "6b1b5d0ab3feb36e20a2f758ddcaba0b42e8e27108199529b3a8cb37257cc5c1"
 metafile = true
 
 [[files]]
