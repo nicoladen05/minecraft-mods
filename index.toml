@@ -352,6 +352,11 @@ hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "09af0f6e3655c1ba6c786d514c8d050a32a7d0a5d7cf04bf6196b3195b2e5599"
 metafile = true
@@ -414,6 +419,11 @@ metafile = true
 [[files]]
 file = "mods/srdp.pw.toml"
 hash = "e3f3e30151257054c80fa76abcc4089c7d002b285dfa341f2913c44994961dfb"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
 metafile = true
 
 [[files]]
