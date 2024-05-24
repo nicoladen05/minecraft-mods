@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "60f072b5e01439bcf0fac3351bf732f03fba64ed252a21202b248f4b94651b5f"
+hash = "bfad4f1af458ca1ad97453ebce96b3b9cfaca938f65204857d9fe6148f74945c"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "f0516dc2874e0555419b501f115173820dcd1fdaaedd8d57d32e1e907980634c"
+hash = "e40fff642cf0e7ff4615fc14f07a85e3431acda3dc9db5c87b069621775a8d3c"
 metafile = true
 
 [[files]]
