@@ -152,6 +152,11 @@ hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "e386a79906673044c08bfee032e26ba12ce5c2b39e0094e151320d508ecc6ea0"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
 metafile = true
@@ -219,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "3a2c473f527724e36ab8e25453bb26bd8b65cc76e9983ad3b6470347d44aa287"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "cf06c923fd862cda2209155bf0948dff5b4ad8dda98a415e8eb0b65aa97b4510"
 metafile = true
 
 [[files]]
