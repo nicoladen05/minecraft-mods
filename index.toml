@@ -142,6 +142,11 @@ hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "19a7e79a2992d580491aa110433df935a6d6addf280f87442843135e334715ca"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
 metafile = true
@@ -162,6 +167,11 @@ hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
 metafile = true
 
 [[files]]
+file = "mods/fabric-carpet.pw.toml"
+hash = "fa56be45e62e92af8f3af2701a20c90b404337b7baa51fbe85d0663b6a913898"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
@@ -177,8 +187,28 @@ hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "c28270c5094622e397e0c3b63a6bbea8f4728f13131dcbb57092cb8248716d54"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "5a37ce08c65a93e7b4299631b5544c590a6c69028071e9ce06eef57c4f434555"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "72f88706e6540c9feb5e429db69eb63a1c26ead1e60a656f780f2305a45ab872"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
@@ -194,6 +224,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "97aa0bb7bc113c8f1cbde3ce1b50d9180dd6e4df6c81860b939572f8948e3026"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "712ffbdcc4a86869edd484d5b87fb92da73bc3a709688936d908c9a710e96865"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "b81951c3a84a39e148433adf2c4d721a004d6ede7c103f0d3d0f44bee7e0e3ff"
 metafile = true
 
 [[files]]
