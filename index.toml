@@ -172,11 +172,6 @@ hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
@@ -184,11 +179,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
-metafile = true
-
-[[files]]
-file = "mods/modernfix.pw.toml"
-hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
