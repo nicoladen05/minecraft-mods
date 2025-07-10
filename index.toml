@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-carpet.pw.toml"
-hash = "0ac51686689f83b011446cb3cef393edb244a3c53157a1b314c100574d56d1fc"
+hash = "916c9776c1b1ba7d1325851addb55137686650ce511fcc14437f2a9c28af6169"
 metafile = true
 
 [[files]]
@@ -229,11 +229,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
 metafile = true
 
 [[files]]
