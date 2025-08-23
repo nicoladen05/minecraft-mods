@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "54c892ceea178c2099642e5c8e6bfc37fc73a855093438a6b4e4a6ca321bfa84"
+hash = "a60794f921a6eb25b334bb254e0a53bf75c85b6f8e7a2f8e0f889770797bf51c"
 metafile = true
 
 [[files]]
@@ -81,12 +81,12 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+hash = "650d83f19ef2c073e57dfc087226fe029c0aa6d12cfdd57a091666a216bb5d15"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "f9f1e1c017e7b902531a68a3f8c9650a18a40a8ab9f0bf44ef5af08b37da8aaf"
+hash = "2efe3d9f52cf3e038f6bbeb08dbbe4d0a8299debcc4f948477865c7984b12033"
 metafile = true
 
 [[files]]
