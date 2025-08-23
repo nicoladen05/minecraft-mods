@@ -130,6 +130,11 @@ hash = "714b35496dbf7cf89814db58ba625b3fc5d0cfb4c180f7eeda8d77beaac20b0c"
 metafile = true
 
 [[files]]
+file = "mods/pts-deco.pw.toml"
+hash = "b0e3030588440d8eee69d7306d90a9b138938c348879f12ddc2471f8f4d88ee8"
+metafile = true
+
+[[files]]
 file = "mods/reforged-accurate-block-placement.pw.toml"
 hash = "480e8e885c737f0f0f8be377f02e113c9ed9d34d8aa0eaf527eede799482239c"
 metafile = true

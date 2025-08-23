@@ -1,0 +1,13 @@
+name = "PTS-Deco"
+filename = "PTS-Deco-3.2.2-NeoForge1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VIkNIHtW/versions/JEtFzyx5/PTS-Deco-3.2.2-NeoForge1.21.1.jar"
+hash-format = "sha512"
+hash = "dcc7181525ea4f4f9984213e7cccdf5bbdf09ee324203d0546d4b506d3e76b7fc013e831eaa04dfbf4a51bed23e148cb96089899f229f8b53ccbb0d11b51ddd8"
+
+[update]
+[update.modrinth]
+mod-id = "VIkNIHtW"
+version = "JEtFzyx5"
