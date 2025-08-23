@@ -60,6 +60,11 @@ hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "0b8d3e7906f6b2e62ce4a2b2469804d6abf7848fd0b669f866f8ef2f6b6c2c39"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
