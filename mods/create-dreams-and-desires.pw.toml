@@ -4,11 +4,11 @@ side = "both"
 pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/JmybsfWs/versions/njIQ2raO/DnDesires-1.21.1-2.2b-BETA.jar"
+url = "https://cdn.modrinth.com/data/JmybsfWs/versions/UPMsqE3U/DnDesires-1.21.1-2.2a-BETA.jar"
 hash-format = "sha512"
-hash = "b38096b32ab94851cd5f9d6a3a9330ce6efacd286428148bdb69a9c761ae0316e4d71c7417773a725aa00b301f1067e844251f1eb9f5c77777821b50491bb0c3"
+hash = "747d294aa9c0ffc39133ac390df6f47746cebe9bf8513b7a8a355b7b088fbc1c"
 
 [update]
 [update.modrinth]
 mod-id = "JmybsfWs"
-version = "UPMsqE3U"
+version = "njIQ2raO"
