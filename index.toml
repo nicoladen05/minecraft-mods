@@ -60,11 +60,6 @@ hash = "8e88d68a9dee5ca107ea3fd5d5394e52ae4e4f03decfc33974d6a958ccb200b5"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-and-desires.pw.toml"
-hash = "d61304d4f6dceb91d07bef3f0d83c83f67962294248781bd8f7e9f926e9c5d95"
-metafile = true
-
-[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
 metafile = true
