@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/update-mods.yml"
+hash = "464ed7e82f2f60da27cd7451b98fd19c022205a1842fe6ab11e578571dc563e9"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -152,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "43084d8f179f5b950c632865600f0949c58db8a9b92ded1bc375222db8b9e3f6"
+hash = "973dd268ef3032d3e714cf36ebfe64e2edd434d303cdc5bcc322852ac494b87e"
 
 [[files]]
 file = "servers.dat"
