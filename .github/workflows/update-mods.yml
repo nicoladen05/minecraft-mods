@@ -1,0 +1,39 @@
+name: update-mods
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+  push:
+    branches:
+      - main
+      - create-1.21.1
+
+jobs:
+  update-mods:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+       
+      - name: Setup go
+        uses: actions/setup-go@v4
+
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          export PATH=$PATH:$HOME/go/bin
+
+      - name: Update mods
+        run: |
+          packwiz refresh
+          packwiz update --all
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "chore: update mods" || echo "No changes to commit"
+          git push
