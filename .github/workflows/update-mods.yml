@@ -1,0 +1,40 @@
+name: update-mods
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+  push:
+    branches:
+      - main
+      - create-1.21.1
+
+jobs:
+  update-mods:
+    runs-on: ubuntu-latest
+    environment: production
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+       
+      - name: Setup go
+        uses: actions/setup-go@v4
+
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          export PATH=$PATH:$HOME/go/bin
+
+      - name: Update mods
+        run: |
+          packwiz refresh
+          packwiz update --all --yes
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update mods"
