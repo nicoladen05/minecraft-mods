@@ -28,7 +28,7 @@ jobs:
       - name: Update mods
         run: |
           packwiz refresh
-          packwiz update --all
+          packwiz update --all --yes
 
       - name: Commit changes
         run: |
