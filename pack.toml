@@ -6,7 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
+<<<<<<< HEAD
 hash = "3f2a3d5c954f603249395fadd9ee45cb95b59951ae0025d070821f195e60fd95"
+=======
+hash = "f68ffb11d630b132af40495c964911dff5eebbf0e9380f17cdb29a6fd7c7222e"
+>>>>>>> parent of 6a14574 (fix: hashes)
 
 [versions]
 minecraft = "1.21.1"
