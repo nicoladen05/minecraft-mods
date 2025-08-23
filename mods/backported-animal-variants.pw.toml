@@ -1,0 +1,13 @@
+name = "Backported Animal Variants"
+filename = "backported_animal_variants-0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pyFjCT3F/versions/QN8vgz1L/backported_animal_variants-0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "5d55f486c237aa46b91988f5de5097993c347cbb60b4c1969c3c23b5bf96619e89673fbe4c7e1cf846c6f9ee4106da043be61c0c8733b6808b2595ebe310e158"
+
+[update]
+[update.modrinth]
+mod-id = "pyFjCT3F"
+version = "QN8vgz1L"

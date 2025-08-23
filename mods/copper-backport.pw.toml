@@ -1,0 +1,13 @@
+name = "Leaf's Copper Backport"
+filename = "leafscopperbackport-1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lp6okdhO/versions/IESUFayw/leafscopperbackport-1.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "ac7a760997f77d9f48721ab4c8819785867dc551c4e1788af0c0247703368151a8b510f7259985aa6fb790b286674587b3e90becee0ab82ed81dd33a8a7b0b62"
+
+[update]
+[update.modrinth]
+mod-id = "lp6okdhO"
+version = "IESUFayw"
