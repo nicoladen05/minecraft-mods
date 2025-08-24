@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "ae6352055ac8adb36b9e4d2ae6bbc996e040399d032bc4a9fa5275c1c46dbf60"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "5278f89a988809a740f83918bf3114bf3c1631d0eb471d534f6d67c3f536ad19"
 metafile = true
 
 [[files]]
@@ -126,6 +136,11 @@ hash = "f9f1e1c017e7b902531a68a3f8c9650a18a40a8ab9f0bf44ef5af08b37da8aaf"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
 file = "mods/forgematica.pw.toml"
 hash = "b70498bc2643d57457f87acc676c6249555835b20aa0a24bb0ce81e1fa771724"
 metafile = true
@@ -143,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/full-brightness-toggle.pw.toml"
 hash = "a1a6e16e0075f2b94dee9f7458325d66a439a0bca0ecc25bf8120a37dbf6ec5d"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
 
 [[files]]
@@ -211,6 +231,11 @@ hash = "58020b79db83e23e241b662de7ba078e80acd4c36d3825c2a2848f99c4f0e32e"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
+metafile = true
+
+[[files]]
 file = "mods/moremousetweaks.pw.toml"
 hash = "f1fe87b666ffb92c18c598f0da2447d7442041880e7bb6c1735334e3bb8d5ad9"
 metafile = true
@@ -248,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "1682add4f33743fe9c60cbae1342e02303d475b652948eeee9071c2be7119f08"
 metafile = true
 
 [[files]]
