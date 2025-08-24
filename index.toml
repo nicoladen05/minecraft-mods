@@ -115,6 +115,11 @@ hash = "f9f1e1c017e7b902531a68a3f8c9650a18a40a8ab9f0bf44ef5af08b37da8aaf"
 metafile = true
 
 [[files]]
+file = "mods/forgematica.pw.toml"
+hash = "b70498bc2643d57457f87acc676c6249555835b20aa0a24bb0ce81e1fa771724"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
@@ -160,6 +165,11 @@ hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
 metafile = true
 
 [[files]]
+file = "mods/mafglib.pw.toml"
+hash = "58020b79db83e23e241b662de7ba078e80acd4c36d3825c2a2848f99c4f0e32e"
+metafile = true
+
+[[files]]
 file = "mods/moremousetweaks.pw.toml"
 hash = "f1fe87b666ffb92c18c598f0da2447d7442041880e7bb6c1735334e3bb8d5ad9"
 metafile = true
@@ -197,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/tweakerge.pw.toml"
+hash = "de950f9e6fa15bffcd71719bd37c5cc37d56af41ba83c52f1e0ad5c555a8b43c"
 metafile = true
 
 [[files]]
