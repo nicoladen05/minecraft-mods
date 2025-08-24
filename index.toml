@@ -155,6 +155,11 @@ hash = "06f4b81111838c9bc96737d158c47bb3a0e9c806dc66a903e3dff0a9b2743c53"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "8f31049728cb784a0216ddbfa3de06751b2a631a3907c84c2d7b2428466d5fc3"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
 metafile = true
