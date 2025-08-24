@@ -75,6 +75,11 @@ file = "mods/create-dreams-and-desires.jar"
 hash = "c1f6272f261da2b3c14f1f141ed04bae957ae46b233e16bca0df33ecb86a92cd"
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "80d8e54420806a0cfdc113dc559ae2e6bfa7dfcf44e176c7e230d7d371ca99e1"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
 metafile = true
