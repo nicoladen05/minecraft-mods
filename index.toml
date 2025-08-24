@@ -31,6 +31,16 @@ hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
 file = "mods/copper-backport.pw.toml"
 hash = "68146ff0d4a3f9d83391f672d378edc68e792e9d416f8c08e8c6b1c46d46a5f9"
 metafile = true
@@ -87,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "f9f1e1c017e7b902531a68a3f8c9650a18a40a8ab9f0bf44ef5af08b37da8aaf"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "5b34f5aff5000de94ed9e132315bad7288a72a9cbb8f902df2799a579433b7af"
 metafile = true
 
 [[files]]
