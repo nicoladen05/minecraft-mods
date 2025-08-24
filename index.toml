@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/update-mods.yml"
-hash = "632441be167948da52b7a3991b773b755f85adaf0b87d6a9a745e89eb8a424cf"
+hash = "12cb043e393039718a615001c1337c194f9ded7414fb1650525b86fd04b6e696"
 
 [[files]]
 file = "config/iris.properties"
