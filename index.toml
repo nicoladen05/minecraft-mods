@@ -211,6 +211,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/neoforge-carpet.pw.toml"
+hash = "3bcff213bb9d45f78546bd633a56873025bcccbe1cbcd39e85e7c277ad6fdc9d"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "714b35496dbf7cf89814db58ba625b3fc5d0cfb4c180f7eeda8d77beaac20b0c"
 metafile = true
