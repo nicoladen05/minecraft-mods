@@ -6,6 +6,11 @@ hash = "0681f8805c880694f6cec2647b24a8d6ea486d644a482a98cc98256be3dccb2c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/backported-animal-variants.pw.toml"
 hash = "b1968a25f68c3274566f8fa0ac975ad365276ed18cde58652dff1e6b53b7e372"
 metafile = true
@@ -100,6 +105,11 @@ hash = "a5dbb701e3c7e377cfbd6a595a0e743eee8471f07962712ac89ae34874f6b65d"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "638709ccc805606ac9fa9bf2f135ae4dd79d299e5796dcac062d838cbdaf6642"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "b0f4435edcc12d578e3711ff6b91c40ea1f74192f8dd09b3b5157516a646a433"
 metafile = true
@@ -147,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "b8253b066948c11c5db757fc6e3a7b9e5d4039ab1aa1543132feed7bb660cad0"
 metafile = true
 
 [[files]]
