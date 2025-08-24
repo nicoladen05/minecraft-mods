@@ -161,8 +161,23 @@ hash = "8d3e669a813af2e685efafeca797f95ad8a99c344078e72d2ce0ee1273369bd8"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "ead018f3794f086abf4acb238c2f99abf465fc27f002483083ba5809e02afa54"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
 metafile = true
 
 [[files]]
