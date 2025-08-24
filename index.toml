@@ -186,6 +186,11 @@ hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
+file = "mods/leash-villager.pw.toml"
+hash = "cc128e09e006712d1076ab922b5cac5f1b5f2e762f91180109d25c2279b80718"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
