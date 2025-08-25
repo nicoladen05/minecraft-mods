@@ -266,6 +266,11 @@ hash = "714b35496dbf7cf89814db58ba625b3fc5d0cfb4c180f7eeda8d77beaac20b0c"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/pts-deco.pw.toml"
 hash = "b0e3030588440d8eee69d7306d90a9b138938c348879f12ddc2471f8f4d88ee8"
 metafile = true
