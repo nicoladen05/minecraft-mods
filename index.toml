@@ -26,6 +26,11 @@ hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "098eeae02b9976d431b7bbc731ec8de58b398c1f9b4918ade91f9a2eb4a98852"
 metafile = true
@@ -71,6 +76,11 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
+file = "mods/cosmos-library.pw.toml"
+hash = "78293ce5f92f413e650f8709918542e79750704b2f11aed00cff82b40633cf91"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "5278f89a988809a740f83918bf3114bf3c1631d0eb471d534f6d67c3f536ad19"
 metafile = true
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "4307091fcb4796398e968c0a446654ef25c216ee0c269c82fbaa034b92071314"
+metafile = true
+
+[[files]]
+file = "mods/create-bionics.pw.toml"
+hash = "083f8bea8b4f5ce13dd0b4bee1aea5b87ce26fe95a8c3ffb8b98d0f4a5a42126"
 metafile = true
 
 [[files]]
@@ -121,8 +136,43 @@ hash = "fe314943675dbe95eca9c16139b049b5e6f94f1e9ac1c78c04a16024bba34f89"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "22db71442017112074951924a7f8a62afa3c0d34cb75b1708ed7f86fec64099c"
+metafile = true
+
+[[files]]
+file = "mods/create-goggles.pw.toml"
+hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "ec83351ff8e3ed9c085370cb1d6844dda99f24ad271ffc4b07beba5fe7c836cc"
+metafile = true
+
+[[files]]
+file = "mods/create-more-additions.pw.toml"
+hash = "d43648a813c69d2abdee4a9d72c887e84af148fc47fea160be08ffe28ece97d6"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
+metafile = true
+
+[[files]]
+file = "mods/create-renewable-egapples.pw.toml"
+hash = "d1b00edc1a438cdcd2b67f148973453facadaae3d959af46470f0d0f1bcb0471"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+hash = "16a779fbdf47b154eb5ee30cc8ab41df3d3fe18308337824d66bd036c2c24014"
 metafile = true
 
 [[files]]
@@ -141,13 +191,33 @@ hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "882c4c081646302cf295cb8aadc38c5002f1045b7249a7e92f4defd62f0f2f84"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-pockets-ii.pw.toml"
+hash = "effac9e2be9075eb92ee8d8cb391eaaa5d915b6f99c77039159b03266105ea3e"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "65026277699cc4b73c3d2c57ab7aad5173f161c0d6ff95e184911826387dbdec"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "e79856a2e2cee31d7d0c9476b87a7f3fa99ed05c863b3372dc12171cc2b6bdfd"
 metafile = true
 
 [[files]]
@@ -181,8 +251,18 @@ hash = "a1a6e16e0075f2b94dee9f7458325d66a439a0bca0ecc25bf8120a37dbf6ec5d"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "2de1f8a8f059d117ba2de24df09b29c6c197298d60b62fcba2a6793a7985ca1a"
 metafile = true
 
 [[files]]
