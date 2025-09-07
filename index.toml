@@ -201,11 +201,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/dimensional-pockets-ii.pw.toml"
-hash = "effac9e2be9075eb92ee8d8cb391eaaa5d915b6f99c77039159b03266105ea3e"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
