@@ -1,13 +1,13 @@
 name = "Carpet: NeoForged"
-filename = "neoforge-carpet-1.21.1-1.0.3+v250629.jar"
+filename = "neoforge-carpet-1.21.1-1.0.5+v250908.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/XqqOkvZz/versions/xn87K8mc/neoforge-carpet-1.21.1-1.0.3%2Bv250629.jar"
+url = "https://cdn.modrinth.com/data/XqqOkvZz/versions/JYqSypkO/neoforge-carpet-1.21.1-1.0.5%2Bv250908.jar"
 hash-format = "sha512"
-hash = "fa5333fcb740d41e225ceb9b6b54458a894f927f4c693c992cdbe3fae336bdc66cd8d0d697285f8bc2c2b8f11d9abdc93865aea99657ff98b5f0deebd169ffc1"
+hash = "8599abcb281a0a4e28b5e775f710a974408749bce6d210fa94874f2347a34d99aec48054302ffed1a4f6b42cd21764c26f8297ef8cafee61bfe68afbb986e33b"
 
 [update]
 [update.modrinth]
 mod-id = "XqqOkvZz"
-version = "xn87K8mc"
+version = "JYqSypkO"

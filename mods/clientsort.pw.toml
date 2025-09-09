@@ -1,13 +1,13 @@
 name = "Client Sort"
-filename = "clientsort-neoforge-2.0.0-beta.13+1.21.1.jar"
+filename = "clientsort-neoforge-2.0.0-beta.15+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/K0AkAin6/versions/8JYe7ADI/clientsort-neoforge-2.0.0-beta.13%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/K0AkAin6/versions/4WSD4nGg/clientsort-neoforge-2.0.0-beta.15%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "e30e7875eef557feefd5e981e7897ea6a593f749c062514017076ba1b059ac77efac553f693533c929be3d0582c76c5d30bfbf0f2c6e03b766bf388b52846faa"
+hash = "5d767c39e623c19e48357c6ad9f25af8a8c17553a40e7142470a14ad5b0b4c2b131c59572f1bd48187da84a6d5fb0653fbe252a218e5185411bb9632a69db651"
 
 [update]
 [update.modrinth]
 mod-id = "K0AkAin6"
-version = "8JYe7ADI"
+version = "4WSD4nGg"
