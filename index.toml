@@ -76,11 +76,6 @@ hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
-metafile = true
-
-[[files]]
 file = "mods/cosmos-library.pw.toml"
 hash = "78293ce5f92f413e650f8709918542e79750704b2f11aed00cff82b40633cf91"
 metafile = true
@@ -206,11 +201,6 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/cybernetic-system.pw.toml"
-hash = "ad63452c54dffe83f5ba14baf8c5b186f3cc5a0d277cbf3d03fd010ae442791a"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
 metafile = true
@@ -218,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
-metafile = true
-
-[[files]]
-file = "mods/enderio.pw.toml"
-hash = "66c8f8fe8c3a84a171e3c39649271a6da8b6b7c0205dff878f1fe4406bcef888"
 metafile = true
 
 [[files]]
@@ -276,11 +261,6 @@ hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
 
 [[files]]
-file = "mods/geckolib.pw.toml"
-hash = "01bb2567def28c08fd3bbc6920094ef9c4258e3ab5f153a13dd30031ed2142fe"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a55fe659bff4772919b0e3f7a64d79df053556cb16cf8e5a186e20d6b3945dc1"
 metafile = true
@@ -288,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "2de1f8a8f059d117ba2de24df09b29c6c197298d60b62fcba2a6793a7985ca1a"
-metafile = true
-
-[[files]]
-file = "mods/immersiveengineering.pw.toml"
-hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
@@ -388,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/neoforge-carpet.pw.toml"
 hash = "07a3501368b9a816d44a26be6e78088835ab6f0ec093d97ce63b564a07d8352f"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
 metafile = true
 
 [[files]]
