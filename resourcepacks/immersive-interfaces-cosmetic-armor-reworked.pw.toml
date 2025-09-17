@@ -1,0 +1,13 @@
+name = "Immersive Interfaces - Cosmetic Armor Reworked"
+filename = "§6Immersive§8_§6Interfaces§8_§6cosmetic§8_§6armor§8_§6rework.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HOTM3YTJ/versions/4lpvNIh5/%C2%A76Immersive%C2%A78_%C2%A76Interfaces%C2%A78_%C2%A76cosmetic%C2%A78_%C2%A76armor%C2%A78_%C2%A76rework.zip"
+hash-format = "sha512"
+hash = "fe62c58a6b3bf8b929171130bea6b89c3038caa789131b02a1cddccbbba08d1b15a813a2088b3c0b9ad07b05631eec8ec5783e1bd338b54a57393be874a39699"
+
+[update]
+[update.modrinth]
+mod-id = "HOTM3YTJ"
+version = "4lpvNIh5"

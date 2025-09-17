@@ -281,6 +281,11 @@ hash = "2de1f8a8f059d117ba2de24df09b29c6c197298d60b62fcba2a6793a7985ca1a"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "bcf437595790e75fbabf9944792f1827fb6a687a2a41dc762621c8694b5205d3"
 metafile = true
@@ -376,6 +381,11 @@ hash = "07a3501368b9a816d44a26be6e78088835ab6f0ec093d97ce63b564a07d8352f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "04ba8a8c91a6c25c42321493a2d233762bb01169fac5fd834e434887cdbf8596"
+metafile = true
+
+[[files]]
 file = "mods/platform.pw.toml"
 hash = "714b35496dbf7cf89814db58ba625b3fc5d0cfb4c180f7eeda8d77beaac20b0c"
 metafile = true
@@ -448,6 +458,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "973dd268ef3032d3e714cf36ebfe64e2edd434d303cdc5bcc322852ac494b87e"
+
+[[files]]
+file = "resourcepacks/immersive-interfaces-cosmetic-armor-reworked.pw.toml"
+hash = "4213c9b7c9e14ecdd7751800c244a843a7ae54de578fec1a85ce96c06d600b48"
+metafile = true
 
 [[files]]
 file = "servers.dat"
