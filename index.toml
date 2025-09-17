@@ -201,6 +201,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/cybernetic-system.pw.toml"
+hash = "ad63452c54dffe83f5ba14baf8c5b186f3cc5a0d277cbf3d03fd010ae442791a"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "bbb3f09fbd5a3ca7aa82c41923f4557429fa465993c2817e9966dd3f8164e318"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "01bb2567def28c08fd3bbc6920094ef9c4258e3ab5f153a13dd30031ed2142fe"
 metafile = true
 
 [[files]]
