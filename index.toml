@@ -136,11 +136,6 @@ hash = "fe314943675dbe95eca9c16139b049b5e6f94f1e9ac1c78c04a16024bba34f89"
 metafile = true
 
 [[files]]
-file = "mods/create-garnished.pw.toml"
-hash = "22db71442017112074951924a7f8a62afa3c0d34cb75b1708ed7f86fec64099c"
-metafile = true
-
-[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "5de2bbab0826b5241e16746b0b739ca5169b0a9df38181d58e8519e6ea7f535f"
 metafile = true
@@ -178,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "7bdf3b6cbe0579a034372ce1eec83e3c1888134f19beb6b17fbf2005706453be"
-metafile = true
-
-[[files]]
-file = "mods/create-ultimate-factory.pw.toml"
-hash = "9d2eb0808d10182b7b2d1ae8c13ed7a1245631a8ebf926e86239e0a576fbf1c9"
 metafile = true
 
 [[files]]
