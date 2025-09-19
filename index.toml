@@ -186,6 +186,10 @@ hash = "882c4c081646302cf295cb8aadc38c5002f1045b7249a7e92f4defd62f0f2f84"
 metafile = true
 
 [[files]]
+file = "mods/cuf.jar"
+hash = "26818677d9478cc1b5762ccc09f0ae117f8d2ef1af40da2563ddda04e24bf5f6"
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -254,6 +258,10 @@ metafile = true
 file = "mods/fzzy-config.pw.toml"
 hash = "e00b467d81fc5f35bf7432bc3b5d371281b0719eeae4377854a5f8ca33968190"
 metafile = true
+
+[[files]]
+file = "mods/garnished-2.1.6.5+1.21.1-neoforged.jar"
+hash = "0a35899210854f393440f3bd3fb36736b8d1f2130bf5d6cf76a33025bdac2487"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
