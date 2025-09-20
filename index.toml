@@ -166,6 +166,10 @@ hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
 metafile = true
 
 [[files]]
+file = "mods/cuf.jar"
+hash = "26818677d9478cc1b5762ccc09f0ae117f8d2ef1af40da2563ddda04e24bf5f6"
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "759030c892c5798d6e26d4d414532182959cb4c592ac62e1ca109394cc1bd9ed"
 metafile = true
@@ -189,6 +193,10 @@ metafile = true
 file = "mods/fabric-carpet.pw.toml"
 hash = "ec95d275e2191d7370ff24027ea2b22a5695958f14da1ac777d489899ab7aa9e"
 metafile = true
+
+[[files]]
+file = "mods/garnished-2.1.6.5+1.21.1-neoforged.jar"
+hash = "0a35899210854f393440f3bd3fb36736b8d1f2130bf5d6cf76a33025bdac2487"
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
