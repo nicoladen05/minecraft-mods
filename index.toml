@@ -359,6 +359,11 @@ hash = "58020b79db83e23e241b662de7ba078e80acd4c36d3825c2a2848f99c4f0e32e"
 metafile = true
 
 [[files]]
+file = "mods/mimi.pw.toml"
+hash = "5a3cb15ece27aaca83bc167468bbad97b3f964b8889e3c067e244decd126b7a2"
+metafile = true
+
+[[files]]
 file = "mods/moa-decor-science.pw.toml"
 hash = "96541c7295e3b542a4d71856ae0b4a48978ab9727fdbb3387357042db47129da"
 metafile = true
