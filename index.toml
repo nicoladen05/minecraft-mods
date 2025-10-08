@@ -205,12 +205,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventive-inventory.pw.toml"
-hash = "b8bb38aa0def8adb43c346c781c400ff6a70e0304a8ba5f08cf53ed19af52094"
+hash = "70496f0b4b13be126afb6542d9cae37ed8bd515a55b1e934ee44ea1e64af90d2"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
+hash = "31317b23606dc75752cd2c8994db3b750c1cb33517c6e02670887c345ff6226d"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d67badb4e995bc340548af8cb784af656bf9ec4b56778056747b207fe521f4ae"
+hash = "b75490061338c12c1c8b7f325ce3f8bdb04c49e2ae27d2625a7782e645ce9b7d"
 metafile = true
 
 [[files]]
