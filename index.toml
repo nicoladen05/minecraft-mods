@@ -142,7 +142,7 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "4b1f2d6f56ba1ed1487e199e48fd5bce91059beaff096759109d8448930df54f"
+hash = "c71213885593728467f9063ac63c1ba54912732a243a3d1c30f809bcc014d166"
 metafile = true
 
 [[files]]
@@ -289,10 +289,10 @@ hash = "40efb3f53dabcc091e4fa10b9c35d24771e58373979765af623e42467a12ea79"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "71e317f0a005cf96c85d2a917c59f166adf2c9e027ed2ea7fe5fcd2686577965"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "25183d9bf95c204041e09bec06b92a47647858b4c5d32b8b159babae60b0c9a1"
+hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
