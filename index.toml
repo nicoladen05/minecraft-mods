@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
+hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "474a6398d6a7bb9252a91f4605e7801c146c68472a7d4697ff11c1122964d8f1"
+hash = "b453956ae5947aaf90dd63a55a540c77b3858af760053d105cf5c26ace173ee5"
 metafile = true
 
 [[files]]
