@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-carpet.pw.toml"
-hash = "aecda1ea8a207f8eb75061ff84018419c9cb198057182158e0209f87373e9a07"
+hash = "d726a99923797161feee03fd0bc270f35eb464816b60771e72117257abff7ecd"
 metafile = true
 
 [[files]]
