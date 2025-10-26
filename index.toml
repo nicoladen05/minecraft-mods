@@ -142,18 +142,53 @@ hash = "7467a101c890769c5d0796e1a4d646074ef8f96c9c1d2995dbb0f3972ea49916"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "1fc1e482945dff68e6aab34b22d61d054a6177869408ed4af3fef6117a33faab"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "5d803700375154c02bfa9e7d3f64b634708568f4d22cd3671cddcd9b3c7d2ab5"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "6d717e11f5a11194004d8879b5c1e46448394855211ce8ac1937ae40895f2c27"
+metafile = true
+
+[[files]]
+file = "mods/bundles-beyond.pw.toml"
+hash = "fed89b1aab7415b9970db50fafb5322658275e28d20ea6a7f835e2cad6abedec"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "9315c38875d617fb03813e04589489548e3408e665d56afaec488b3a011a3725"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
+file = "mods/chat-calc-kt.pw.toml"
+hash = "0742eae510d3dc9249883092efee4defdd04d4689e3db294e0be18bb9df84f2f"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
+file = "mods/chat-heads.pw.toml"
+hash = "4a9910d74bb7a85600abaf36ae568bcfb10e76062b9d5d718656f5d172e79419"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "9d07c9ba99c427bc750413e68552dcb497c6aec4f2483bf4a46bd93a19e886a3"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "7c1deca99f32b975adbf74f186aef5a75bcf8f6bca18298f2334d94e6d1a5516"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
 metafile = true
 
 [[files]]
@@ -183,7 +218,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-carpet.pw.toml"
-hash = "ec95d275e2191d7370ff24027ea2b22a5695958f14da1ac777d489899ab7aa9e"
+hash = "aecda1ea8a207f8eb75061ff84018419c9cb198057182158e0209f87373e9a07"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/herenthere.pw.toml"
+hash = "bbf42135d2c585de8f7fcc04802de638631a43fe34d921a470e1f6351d7400e6"
 metafile = true
 
 [[files]]
@@ -214,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/minihud.pw.toml"
 hash = "e0ec01c5bc3591ba368bc2e91c930680fe0e60eec1f18ac3565f432eea01ee6b"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
 metafile = true
 
 [[files]]
