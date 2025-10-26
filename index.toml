@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/update-mods.yml"
-hash = "12cb043e393039718a615001c1337c194f9ded7414fb1650525b86fd04b6e696"
-
-[[files]]
 file = "config/iris.properties"
 hash = "396c4896484b87c8628f07a8083af78855fa441835449d4a94d8ea86b84a40ba"
 
@@ -166,10 +162,6 @@ hash = "10d0fedaab6a4f7ef05e06882e61864599f5dddafe55902b25ed475f81b6b5ce"
 metafile = true
 
 [[files]]
-file = "mods/cuf.jar"
-hash = "26818677d9478cc1b5762ccc09f0ae117f8d2ef1af40da2563ddda04e24bf5f6"
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "547fcb6481c2cf682b9de98f0a719d27f0ba896d7b06076f2135f2abd470aea6"
 metafile = true
@@ -195,17 +187,8 @@ hash = "ec95d275e2191d7370ff24027ea2b22a5695958f14da1ac777d489899ab7aa9e"
 metafile = true
 
 [[files]]
-file = "mods/garnished-2.1.6.5+1.21.1-neoforged.jar"
-hash = "0a35899210854f393440f3bd3fb36736b8d1f2130bf5d6cf76a33025bdac2487"
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
-metafile = true
-
-[[files]]
-file = "mods/inventive-inventory.pw.toml"
-hash = "f39c11b90518f83e7cbb33af0392b5fb9471ac8eee57dc4a1bc9d5189198e52a"
 metafile = true
 
 [[files]]
@@ -236,16 +219,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
-metafile = true
-
-[[files]]
-file = "mods/moremousetweaks.pw.toml"
-hash = "cbc08764f96725911d664ab3fff36f10364d5efaa699d496bc3239ad1901e45f"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
 metafile = true
 
 [[files]]
