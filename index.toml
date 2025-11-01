@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/clientsort.json"
+hash = "afd560708f803d00f87b800657ded76e86ad359b7a6f7c052f5432b6fdbc501b"
+
+[[files]]
 file = "config/iris.properties"
 hash = "396c4896484b87c8628f07a8083af78855fa441835449d4a94d8ea86b84a40ba"
 
@@ -982,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "40efb3f53dabcc091e4fa10b9c35d24771e58373979765af623e42467a12ea79"
+hash = "c9d48ada6d8d92ef0e232ecfa3857928a2c9a45c354c7e2065607dddc59646f8"
 
 [[files]]
 file = "resourcepacks/bibliophilia.pw.toml"
@@ -1023,6 +1027,10 @@ metafile = true
 file = "resourcepacks/tras-fresh-player.pw.toml"
 hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "7651c224383803845276d19fec4a617c0cfe9b234cf7cd7b52ea099a33831201"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
