@@ -1038,7 +1038,3 @@ metafile = true
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
-
-[[files]]
-file = "update.sh"
-hash = "92ef5e2593e76fa2cf69141386d86f4abdf369bdc3552c5ca2cdee8be66410a0"
