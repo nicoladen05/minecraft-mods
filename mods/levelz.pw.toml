@@ -1,0 +1,13 @@
+name = "LevelZ"
+filename = "levelz-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EFtixeiF/versions/wgD9MiF6/levelz-2.0.6.jar"
+hash-format = "sha512"
+hash = "34b29a68ca5b67ede9abcae2fe854becaaa8b45475a868305e74ba6713df5b2f36c700073f920f3c32db190b932abd150bb1f3ebfafae482f76dd8d2fdafae54"
+
+[update]
+[update.modrinth]
+mod-id = "EFtixeiF"
+version = "wgD9MiF6"

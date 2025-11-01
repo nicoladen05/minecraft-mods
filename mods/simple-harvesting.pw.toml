@@ -1,0 +1,13 @@
+name = "Simple Harvesting"
+filename = "SimpleHarvesting-1.21-1.21.1-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W1TjtEQz/versions/OZNuu9SY/SimpleHarvesting-1.21-1.21.1-2.0.jar"
+hash-format = "sha512"
+hash = "045221680a33f82b300e72194cbf558643bfe8c499896c6fe518aaae11a87fbcf857b12e4ace17b9fdcf4ab868906fecbf2eef642f063155c60a44c4b81142df"
+
+[update]
+[update.modrinth]
+mod-id = "W1TjtEQz"
+version = "OZNuu9SY"

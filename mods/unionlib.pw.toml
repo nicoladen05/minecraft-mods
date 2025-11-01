@@ -1,0 +1,13 @@
+name = "UnionLib"
+filename = "UnionLib-1.21.1-12.1.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EkkPwdCY/versions/5Z24KZEv/UnionLib-1.21.1-12.1.1-Fabric.jar"
+hash-format = "sha512"
+hash = "c5ce6a7ca9df8b26fc48918b9be20ca39083c22f5c1254adadd02d1d5dd8822685b2b1217424e4df058839d75de900e9aa7a4c3d3fd6a6bfa7a567b95a6dc73d"
+
+[update]
+[update.modrinth]
+mod-id = "EkkPwdCY"
+version = "5Z24KZEv"
