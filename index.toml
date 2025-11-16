@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "7c1deca99f32b975adbf74f186aef5a75bcf8f6bca18298f2334d94e6d1a5516"
+hash = "526b3ebca5d5c7320c6a919c5db42743e3ffd51d7e4df4218cba14fd470a59f9"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "33a8f546d3bff95ed4f98a345a6c84ed075be1e7c385e4b2a30b2a403f1b2604"
+hash = "df5ce30f6ac464f7b06400e03568d2b9087dd1849fd8c21a2381fe2f666338b6"
 metafile = true
 
 [[files]]
