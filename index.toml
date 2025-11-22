@@ -277,6 +277,10 @@ hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
 metafile = true
 
 [[files]]
+file = "mods/nvidium-0.4.2-beta3-1.21.9-1.21.10.jar"
+hash = "9195fd8c4f27a1d4dcb5fb79e7827ef377c28ad491e42655a5dde49e6d774ff7"
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4626f4c13b47099ed0466cc50e1fb526e9b00de88a39e5e11e66be142ff38013"
 metafile = true
