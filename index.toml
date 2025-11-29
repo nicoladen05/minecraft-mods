@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "526b3ebca5d5c7320c6a919c5db42743e3ffd51d7e4df4218cba14fd470a59f9"
+hash = "94f43cd957f4c6bbf49b21e0d8eb923ed91fefe0bc2a18a0c75175bf79de5c66"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "2d373a1128cdb01a77053c64d5d6a64cf76c2d68da0529b2cc0f2dd6f8371767"
+hash = "ae2060c6233ba1715c06f687148af5b2fbd9ac511c28d653fe2887ad7ecb1fc1"
 metafile = true
 
 [[files]]
