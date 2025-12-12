@@ -138,7 +138,7 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7467a101c890769c5d0796e1a4d646074ef8f96c9c1d2995dbb0f3972ea49916"
+hash = "2d3cbf3d77196a08a014270238740515c1b634bc11ad83a51140d7bcfc62d6b3"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "52db049cc81d85ae0fb99308e66e3f272c73bd05120e61e3f94ca23bddb8e490"
+hash = "715b86d4669a9f6b7416bbc6545bc4abd1d2ddda401be261b29fb7a1199f9f2d"
 metafile = true
 
 [[files]]
