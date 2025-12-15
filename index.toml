@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "5d803700375154c02bfa9e7d3f64b634708568f4d22cd3671cddcd9b3c7d2ab5"
+hash = "d1eb0dbf966090d95b6658a1ded6580b0e2afc73f4bd1d1bff8b9433050068ac"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "cec18d221cb8c8bc1a13ee9657c13a9152673c778471c5bad9482f0b66bd0aeb"
+hash = "708dd6f8cfd5e318579ae0c7f1f3c127ce3d880a67e9f3543adb71d531d4aed5"
 metafile = true
 
 [[files]]
