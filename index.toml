@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "config/iris.properties"
 hash = "396c4896484b87c8628f07a8083af78855fa441835449d4a94d8ea86b84a40ba"
 
