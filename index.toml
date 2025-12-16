@@ -202,11 +202,6 @@ hash = "cf6edd71a012b437bca4bcac93c44d1109632db31b5f638d28b58fa77cf771b5"
 metafile = true
 
 [[files]]
-file = "mods/fabric-carpet.pw.toml"
-hash = "a2aac34aa73dee6f2c992f37758557ebd4289e8ace7029ca9ff65310b426d3e9"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true

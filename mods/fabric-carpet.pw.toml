@@ -1,7 +1,0 @@
-name = "fabric-carpet"
-filename = "fabric-carpet-1.21.11-1.4.193+v251211.jar"
-
-[download]
-url = "https://github.com/gnembon/fabric-carpet/releases/download/1.4.193/fabric-carpet-1.21.11-1.4.193+v251211.jar"
-hash-format = "sha256"
-hash = "bb2b9aa2a8899b8dda001ecdbc18672debb8b1d66ad51ad57433b6da29404e27"
