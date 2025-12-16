@@ -167,18 +167,8 @@ hash = "bf1cd023d328ab35eb85ffeffc55d2177dc603b28f5e168f87dd15d169d09a3f"
 metafile = true
 
 [[files]]
-file = "mods/chat-calc-kt.pw.toml"
-hash = "0742eae510d3dc9249883092efee4defdd04d4689e3db294e0be18bb9df84f2f"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "092508af534efeb380b9551663980ab1f701d88583a63227d02cb02843335f7a"
-metafile = true
-
-[[files]]
-file = "mods/cherished-worlds.pw.toml"
-hash = "9d07c9ba99c427bc750413e68552dcb497c6aec4f2483bf4a46bd93a19e886a3"
 metafile = true
 
 [[files]]
@@ -189,11 +179,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
-metafile = true
-
-[[files]]
-file = "mods/craterlib.pw.toml"
-hash = "d036c801bc536e98cb8e5fb4c6a4be038d5e4facae4a73850588f58559cceb48"
 metafile = true
 
 [[files]]
@@ -267,11 +252,6 @@ hash = "6bb2e02cb1d2feb46ea384229d7f8795125e8afcf8adafe44efaa777506e6175"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
 metafile = true
@@ -283,11 +263,6 @@ hash = "9195fd8c4f27a1d4dcb5fb79e7827ef377c28ad491e42655a5dde49e6d774ff7"
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4626f4c13b47099ed0466cc50e1fb526e9b00de88a39e5e11e66be142ff38013"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "82a7a2d7cf37f5ceab22bcdacfd3206ede5a69c30b4f567a3976293e2231d30d"
 metafile = true
 
 [[files]]
@@ -308,16 +283,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "34fea802d614ca9d67ee54693a23ba5d91a3728510db404c88140098eb38860f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "a7d0bbc50957cfb31069dc6ae4ede843f64fa40a34613986bc7adbb856ffb71d"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "121b4fa5f12aef9a36418922a8be02aa715ad40347165e31dcdf293f16019519"
 metafile = true
 
 [[files]]
