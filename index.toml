@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cf6edd71a012b437bca4bcac93c44d1109632db31b5f638d28b58fa77cf771b5"
+hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
 metafile = true
 
 [[files]]
@@ -232,12 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "442468b81b595bb843af8ca225b51dbf5389f3ddaf07c009d1d2e6bc9f8d7610"
+hash = "43ae42453ad9c79d9ab1158e13b3230f3dd5d43c6abc088f566038152af3347f"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "256153cf388712677ab3812461006be256f0d4dbe3ad3505457722a85b4f2312"
+hash = "7cb1f88c44e35ca6a374ce9cf4a82df99843e6109576e0e9bb20ea2a1f5c16f7"
 metafile = true
 
 [[files]]
@@ -247,12 +247,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "ebde302faa068ace4a27bb1228fabdbec05651a418c5109845a0e84141fb018f"
+hash = "c8da9df94366869dacc80807029f14edb4c583420b7b2d5193d6da06e85150ea"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "6bb2e02cb1d2feb46ea384229d7f8795125e8afcf8adafe44efaa777506e6175"
+hash = "e1bdd6fe057de088e1aab32b70309185bdfe6f004146067b7b14d4f83fbb207b"
 metafile = true
 
 [[files]]
@@ -267,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "0a76421b847a5f403a4b9fc1f211a9792564c2a4c238cd7fd92727f560dc9f9a"
+hash = "5936eea7a83a33027fae99530fec0fa76511ee1ecbfee8125944ba1f470e7713"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f61bd9fbfa3fcc5d8267b5cbe6af08c93385752ddc6e6b74df0fbcfd5747e413"
+hash = "c0a85192cfec296d8ab8690e91bfeb932efde590af289ec263616ed36543cee7"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "f7148ee0560f056fe5d60984527b370b0fec15d6bc427778021e68b89220b07c"
+hash = "d80f469d856cb34a20556543c9c0617bcf83a259cf6a3822104f84883c9879a3"
 metafile = true
 
 [[files]]
