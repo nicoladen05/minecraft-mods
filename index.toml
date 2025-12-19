@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8395078cc9b359cf76e0bf950c57b886101446d1c7893a733c9cc16fd6c7d2f8"
+hash = "d06bd663c0b321e02f82c2a95f43f7f5e5b704f6b9ce4c7e4067f4d5c9e51245"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dc930299b4c11cbd31712a3b91231bac4be1f34d00a464bfbe1a0674f5187d11"
+hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
 
 [[files]]
