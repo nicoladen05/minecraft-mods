@@ -281,6 +281,11 @@ hash = "7cb1f88c44e35ca6a374ce9cf4a82df99843e6109576e0e9bb20ea2a1f5c16f7"
 metafile = true
 
 [[files]]
+file = "mods/litematicdownloader.pw.toml"
+hash = "145c1312278f193aaf0a0853d6a4c95c7dede67c44080d60447800cfbef74fe0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
 metafile = true
