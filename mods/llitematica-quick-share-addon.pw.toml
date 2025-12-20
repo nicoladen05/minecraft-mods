@@ -1,0 +1,13 @@
+name = "Litematica Quick-Share Addon"
+filename = "quickshare-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LBqlnT0v/versions/vtFuCNLO/quickshare-1.0.0.jar"
+hash-format = "sha512"
+hash = "80bc61c2ab081db67f50431e0ee1f1c090a3f0fc70d33a7177a4e17b60763b50a85ccd37e773e0f2843c18a728d19cd7f6dae7a792c9efb63eeef659d5d69b58"
+
+[update]
+[update.modrinth]
+mod-id = "LBqlnT0v"
+version = "vtFuCNLO"

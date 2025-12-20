@@ -286,6 +286,11 @@ hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
 metafile = true
 
 [[files]]
+file = "mods/llitematica-quick-share-addon.pw.toml"
+hash = "5121d59e9f3fb2acec506149f942a0dd39354187df0ac744b3efc300f1ed89f0"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "c8da9df94366869dacc80807029f14edb4c583420b7b2d5193d6da06e85150ea"
 metafile = true
