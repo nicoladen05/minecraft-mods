@@ -161,13 +161,13 @@ hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
 metafile = true
 
 [[files]]
-file = "mods/autowalk.pw.toml"
-hash = "173d255fc60d47210d6eff526b47547251a3c9524854018c424e72e4965905f3"
+file = "mods/axiom.pw.toml"
+hash = "b1e08d3a6db8777433227b2b300c89795d7baced15a012fe256aaddef74e91b6"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "b1e08d3a6db8777433227b2b300c89795d7baced15a012fe256aaddef74e91b6"
+file = "mods/axolotlclient-waypoints.pw.toml"
+hash = "c35a5644b67cf459b6cb6c1756e6a18b9b3a216734f9937a94575ac42756486b"
 metafile = true
 
 [[files]]
@@ -251,8 +251,8 @@ hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
 
 [[files]]
-file = "mods/gui-effect-timer.pw.toml"
-hash = "75a6efa3238d5c0c116ba3fbb1688ddb68e01d94e703ca0980f2b6e1a001b790"
+file = "mods/forge-config-api-port.pw.toml"
+hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
 metafile = true
 
 [[files]]
@@ -311,8 +311,18 @@ hash = "a7ed3b70eee552acb382d218b9ab840d6d8d81fac7491db9d146692c4d870389"
 metafile = true
 
 [[files]]
+file = "mods/pixelshot.pw.toml"
+hash = "8778b8a4f895a82df0494cb0a8afc46ca4826aaff7814db94ef6955a4b9c4281"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4626f4c13b47099ed0466cc50e1fb526e9b00de88a39e5e11e66be142ff38013"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "019beb4b3714c08e6c9ba39339ef05fa299ba08e1cd9038881734d85dc50cd42"
 metafile = true
 
 [[files]]
@@ -333,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c0a85192cfec296d8ab8690e91bfeb932efde590af289ec263616ed36543cee7"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "3ed900bdfc8331520c122957c64c930a50bd814a722b6367155af675d4bf0e40"
 metafile = true
 
 [[files]]
