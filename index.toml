@@ -366,6 +366,11 @@ hash = "d80f469d856cb34a20556543c9c0617bcf83a259cf6a3822104f84883c9879a3"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "d21872a45afdb441d7124afce6d80bd01714ba13ac6956e4adf5003b353f1059"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "34fea802d614ca9d67ee54693a23ba5d91a3728510db404c88140098eb38860f"
 metafile = true
