@@ -1,0 +1,13 @@
+name = "AutoWalk"
+filename = "AutoWalk-0.8,1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HMMhT0vF/versions/T0aZ2YMo/AutoWalk-0.8%2C1.21.11.jar"
+hash-format = "sha512"
+hash = "86f14bf34cedb96a085544e2b4162ca8951f6d7822124de1bc12de359a6226b3c73aab24f2562afb7174f93e93570355b754ccfedad33d0433de51f9e7c7a7bf"
+
+[update]
+[update.modrinth]
+mod-id = "HMMhT0vF"
+version = "T0aZ2YMo"

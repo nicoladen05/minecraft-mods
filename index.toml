@@ -146,6 +146,11 @@ hash = "904365e7891802e522e5a35189b7039e18f56a22ab30bd99af59b97ec4b7468e"
 metafile = true
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "980d2653a03fdaf15fb652592bcc503bff25dda9e721d627226d091a90a56946"
+metafile = true
+
+[[files]]
 file = "mods/anti-xray.pw.toml"
 hash = "7ffd2cbb973d987d543b36f12cc9362baae07b0983b83a8292f063ed4287f9a9"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
+metafile = true
+
+[[files]]
+file = "mods/autowalk.pw.toml"
+hash = "173d255fc60d47210d6eff526b47547251a3c9524854018c424e72e4965905f3"
 metafile = true
 
 [[files]]
@@ -201,6 +211,11 @@ hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d06bd663c0b321e02f82c2a95f43f7f5e5b704f6b9ce4c7e4067f4d5c9e51245"
 metafile = true
@@ -233,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+metafile = true
+
+[[files]]
+file = "mods/gui-effect-timer.pw.toml"
+hash = "75a6efa3238d5c0c116ba3fbb1688ddb68e01d94e703ca0980f2b6e1a001b790"
 metafile = true
 
 [[files]]
