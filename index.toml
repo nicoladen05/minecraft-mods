@@ -166,11 +166,6 @@ hash = "b1e08d3a6db8777433227b2b300c89795d7baced15a012fe256aaddef74e91b6"
 metafile = true
 
 [[files]]
-file = "mods/axolotlclient-waypoints.pw.toml"
-hash = "c35a5644b67cf459b6cb6c1756e6a18b9b3a216734f9937a94575ac42756486b"
-metafile = true
-
-[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
 metafile = true
