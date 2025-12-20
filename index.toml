@@ -196,6 +196,11 @@ hash = "092508af534efeb380b9551663980ab1f701d88583a63227d02cb02843335f7a"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "9854603f767980c514aefe9c391a6d3fa89dc6be18d23ab462f2a3bbabe7652c"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "f08478092de1b182154cccb4208a397b6ce0ec6027f563a2adce4203d9b51884"
 metafile = true
