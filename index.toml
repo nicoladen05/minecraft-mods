@@ -236,6 +236,11 @@ hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
+file = "mods/fadeless.pw.toml"
+hash = "33751edd5b63fdc4d8c51e19a74013efc600807ad8cf773d1512072b97c8ecd7"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
 metafile = true
