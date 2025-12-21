@@ -356,6 +356,11 @@ hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
+file = "mods/shuttfup.pw.toml"
+hash = "d44432512af8fc6992c273a01e26b9067d26f52b02f4f252476832b69d25851c"
+metafile = true
+
+[[files]]
 file = "mods/signalloss.pw.toml"
 hash = "743040f377b4f1e5b8f59764eeca73a4c2c31649355503f7b13d117c68c96523"
 metafile = true

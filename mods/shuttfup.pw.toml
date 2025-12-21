@@ -1,0 +1,13 @@
+name = "Stfu"
+filename = "Stfu-2.8.1-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rg9WdvvR/versions/K6MSOY3A/Stfu-2.8.1-1.21.11.jar"
+hash-format = "sha512"
+hash = "449c90b29de2bbcbd34b185f32405793197df7abf0e61ebc23c388ff7c2b666ceaa12811048756fa6ae2ada844b2c86e47399ccd92fb30b721f9dfcf30499370"
+
+[update]
+[update.modrinth]
+mod-id = "Rg9WdvvR"
+version = "K6MSOY3A"
