@@ -176,6 +176,11 @@ hash = "17e7de63579b066cea4b6db60318617956c1925891edc562085cd72544a763b9"
 metafile = true
 
 [[files]]
+file = "mods/bigshot.pw.toml"
+hash = "d664a21bceb31aae94ef5c73898b0bd5387fd8bef59d24e9ecd54ebe6d53d0c5"
+metafile = true
+
+[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "5ab81359d4654812c2f4dd40f6db5bb51e217a228827d5cc351a40611f05d7de"
 metafile = true
@@ -333,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "a7ed3b70eee552acb382d218b9ab840d6d8d81fac7491db9d146692c4d870389"
-metafile = true
-
-[[files]]
-file = "mods/pixelshot.pw.toml"
-hash = "8778b8a4f895a82df0494cb0a8afc46ca4826aaff7814db94ef6955a4b9c4281"
 metafile = true
 
 [[files]]
