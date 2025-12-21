@@ -1,0 +1,13 @@
+name = "Auto-Run"
+filename = "autorun-mc1.21.9-v1.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/2deAbVBY/autorun-mc1.21.9-v1.3.1.jar"
+hash-format = "sha512"
+hash = "a7b27bd5234108005309d48f6af49bc7f4ef209bf1b413e4f3d8f3a40ab6d75875567b33e988d016b6b2608c5b85ee8712939115e2ee6e3ebf57738f41c8a415"
+
+[update]
+[update.modrinth]
+mod-id = "2i7tg1Wv"
+version = "2deAbVBY"

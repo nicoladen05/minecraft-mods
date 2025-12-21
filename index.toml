@@ -161,6 +161,11 @@ hash = "ed50f3b3feba91fa31915aefb40690bc322f37be83490e6b59a443e83a46a542"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "a6a3f8e8b127583f0dddf76c4a9aa5e946074c80e0aea94e3453e12e7952a542"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "b1e08d3a6db8777433227b2b300c89795d7baced15a012fe256aaddef74e91b6"
 metafile = true
