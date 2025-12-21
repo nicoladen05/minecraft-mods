@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bf1cd023d328ab35eb85ffeffc55d2177dc603b28f5e168f87dd15d169d09a3f"
+hash = "1b6acd374e376f9dee939184a228eb8b1a8fd1abb5074a8a6cff2473712aeadb"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "f08478092de1b182154cccb4208a397b6ce0ec6027f563a2adce4203d9b51884"
+hash = "a2dd570b2ef1ff660000db622edb5a0bebc42e6b2edfe31e95af305bc1a2948c"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
+hash = "aed9bbc1e24a8db8f57a9bea98460638abf832aaa5281d607657bd3063022348"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "019beb4b3714c08e6c9ba39339ef05fa299ba08e1cd9038881734d85dc50cd42"
+hash = "f3e9b0ac5a63f905fcf7923e71556e4ee435b858d60f05219e9ea4fcde45694a"
 metafile = true
 
 [[files]]
