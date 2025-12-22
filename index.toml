@@ -201,6 +201,11 @@ hash = "1b6acd374e376f9dee939184a228eb8b1a8fd1abb5074a8a6cff2473712aeadb"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "092508af534efeb380b9551663980ab1f701d88583a63227d02cb02843335f7a"
 metafile = true
