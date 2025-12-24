@@ -150,7 +150,7 @@
     "blockPosFormat": "Block: %d, %d, %d",
     "blockGridOverlayRadius": 32,
     "coordinateFormat": "x: %.1f y: %.1f z: %.1f",
-    "dateFormatReal": "yyyy-MM-dd HH:mm:ss",
+    "dateFormatReal": "dd.MM.yy HH:mm:ss",
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
     "fontScale": 1.0,
     "lightLevelMarkerSize": 0.84,
