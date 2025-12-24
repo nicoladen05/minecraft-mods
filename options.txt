@@ -48,7 +48,7 @@ mouseSensitivity:0.2035541373239438
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","itemswapper:default","itemswapper:experimental_addon","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation"]
+resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:["ambientsounds","appleskin","cherishedworlds","creativecore","fullbrightnesstoggle","modernfix","tweakeroo","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:192.168.2.48
 lang:en_us
