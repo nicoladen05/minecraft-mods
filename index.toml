@@ -5,6 +5,10 @@ file = ".envrc"
 hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
 
 [[files]]
+file = "config/clientsort.json"
+hash = "215bfc07630f8ab3bcb9b679301e99af01b519887d474ae2dcfe78f7c56f017a"
+
+[[files]]
 file = "config/iris.properties"
 hash = "396c4896484b87c8628f07a8083af78855fa441835449d4a94d8ea86b84a40ba"
 
@@ -14,47 +18,7 @@ hash = "b9a1997727d4a3001cf589901099f409a54def6e76b23bb81904ee15f4b7c2d3"
 
 [[files]]
 file = "config/litematica.json"
-hash = "2ce533c7d3b123ffbd5df1b16c630a3dadc23c0bd11d8c739f58f0f45bb60634"
-
-[[files]]
-file = "config/litematica/litematica_localhost.json"
-hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
-
-[[files]]
-file = "config/litematica/litematica_localhost_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_localhost_dim_minecraft_the_end.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_localhost_dim_minecraft_the_nether.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_nerduniverse.duckdns.org.json"
-hash = "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e"
-
-[[files]]
-file = "config/litematica/litematica_nerduniverse.duckdns.org_dim_minecraft_overworld.json"
-hash = "c6e3dcc4f1f37009b5d9bafd8fe6721bfc62cb5948f0ab0d64175ade83a9e5d6"
-
-[[files]]
-file = "config/litematica/litematica_nerduniverse.duckdns.org_dim_minecraft_the_end.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
-
-[[files]]
-file = "config/litematica/litematica_nerduniverse.duckdns.org_dim_minecraft_the_nether.json"
-hash = "c6e3dcc4f1f37009b5d9bafd8fe6721bfc62cb5948f0ab0d64175ade83a9e5d6"
-
-[[files]]
-file = "config/litematica/litematica_new_world.json"
-hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
-
-[[files]]
-file = "config/litematica/litematica_new_world_dim_minecraft_overworld.json"
-hash = "4a6809e2e3fd89774626b695a48533eaeee73131af4f27333f09af1807eae2bf"
+hash = "ad6f627f640b89869bdcd5078f5530eb21c48feb3044ccb0fee39f2303bf05a7"
 
 [[files]]
 file = "config/malilib.json"
@@ -62,47 +26,7 @@ hash = "13b137a7e5d3194ccd24f617731ba4aac32237d69067f1f5b8bbb1160e6efe76"
 
 [[files]]
 file = "config/minihud.json"
-hash = "7e069df522fd7edb611b9b917b1fbccb7b26d9429ff2ec4190513c2e288b8ca1"
-
-[[files]]
-file = "config/minihud/localhost.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/localhost_dim_minecraft_overworld.json"
-hash = "d52eed27fd155e3c847593668511315c745ad9113ebac783b827f8411c36715c"
-
-[[files]]
-file = "config/minihud/localhost_dim_minecraft_the_end.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/localhost_dim_minecraft_the_nether.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/nerduniverse.duckdns.org.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/nerduniverse.duckdns.org_dim_minecraft_overworld.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/nerduniverse.duckdns.org_dim_minecraft_the_end.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/nerduniverse.duckdns.org_dim_minecraft_the_nether.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
-
-[[files]]
-file = "config/minihud/new_world.json"
-hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
-
-[[files]]
-file = "config/minihud/new_world_dim_minecraft_overworld.json"
-hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+hash = "474f4c3794c28923f97152f5a2fa9465bc54239277381daf342e3efcfefb7e2c"
 
 [[files]]
 file = "config/peek/peek.properties"
@@ -114,27 +38,11 @@ hash = "fc5ca865f4f027189b5894c421fd99588e0916f27915d29bb1dcf068a510a28f"
 
 [[files]]
 file = "config/tweakeroo.json"
-hash = "a53c34fb39f3384eb15b3c799ed0656e620e0525cf336b2ad615eb24cbcb949b"
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+hash = "5a6a877c576995c17ee1e66778d36bfdcc0fde65c1bc71d943671837ba037a2b"
 
 [[files]]
 file = "config/xaerominimap.txt"
 hash = "54774cf954b6dc94b2ea96101cc1773a269e51f0c381607ad6c301375acab9a3"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
@@ -242,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "d06bd663c0b321e02f82c2a95f43f7f5e5b704f6b9ce4c7e4067f4d5c9e51245"
+hash = "541a143f8adf28db21b3ac3af0438d33c7d1b3fd9ad0fd01c0e3f6e6526d07b7"
 metafile = true
 
 [[files]]
@@ -327,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
@@ -427,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "34fea802d614ca9d67ee54693a23ba5d91a3728510db404c88140098eb38860f"
+hash = "0a4a263f603fe2f44357bb45f66f6e991ab5be2cacc39a3e674643cf9a96fe07"
 metafile = true
 
 [[files]]
@@ -442,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "40efb3f53dabcc091e4fa10b9c35d24771e58373979765af623e42467a12ea79"
+hash = "aabcdf1bb3f4b2304a8be9d01cd90b3e570e6a40842821a0fb78836e0a493b27"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
