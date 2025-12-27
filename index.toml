@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c252a208703bd1e996fb036540d1ed1017acf04eb99263f1792839d179b406c5"
+hash = "bfd131e6be8f8c270857c8622dd95a0d8c32d2a6f1a2cf0e64b6d6063fdddaae"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
+hash = "a89555e4ccf7ba3541cae70de8e1c11b007a50993f3b7ffc490932029ed8fdf5"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "2429bf75e06352fd088cc43f1204b6a106560420c5ff93095820fd0ad64f33fc"
+hash = "dbf913e33a6b38ce1648449bade6a55635a554236c250ce04aa18a95e3eae206"
 metafile = true
 
 [[files]]
