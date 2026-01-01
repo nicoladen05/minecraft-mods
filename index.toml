@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bfd131e6be8f8c270857c8622dd95a0d8c32d2a6f1a2cf0e64b6d6063fdddaae"
+hash = "ff260b35492778bdce59ffa064a59c6a9953ffd409eb40782af14b78a29a2cb8"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "7cb1f88c44e35ca6a374ce9cf4a82df99843e6109576e0e9bb20ea2a1f5c16f7"
+hash = "77fefae63ffcc1290c584c1b7d1be1a2725ae9ed2424c44c8b81f3640cb69ccb"
 metafile = true
 
 [[files]]
