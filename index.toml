@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundles-beyond.pw.toml"
-hash = "7908a5bd9db4ffcf529f5df1e588982441996082ebe3b8536ba831513dcc5865"
+hash = "15405277b8318d28990a64d0a75fa0082597a313c9f9aa20f0f32b8285a85caf"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "dc52e83ed9391a34725d38f851894bdcb2cff26814b9bfecdc0b0794596eb01d"
+hash = "a0ef8034adaf8b22f36a4e543559455b25cf6abbc54e7f7a3d57c3bcd67827d9"
 metafile = true
 
 [[files]]
