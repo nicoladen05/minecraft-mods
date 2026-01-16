@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "498b1e53ad324ef235f61366ead140bde04c3108a51973a17e7de8243c5de208"
+hash = "c68cac49cb91708fd6b82bf8324ae4c544752f0e9151f5206f15bc050a91d33e"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "b74fc5559d6019c3ac54581de34cf17476ad9ced4b171aced5e6554e29746020"
+hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
 metafile = true
 
 [[files]]
