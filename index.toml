@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "c68cac49cb91708fd6b82bf8324ae4c544752f0e9151f5206f15bc050a91d33e"
+hash = "6324b634d5e464cf2606cce4e1d9b923701cad31764858d982fe0738129e0e4e"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-view.pw.toml"
-hash = "a25ff2b7f1fe489dcecbbcb67907f15f3e1b18892916615050fb1f741c57440c"
+hash = "5feb5943b2d67736363b69cd5b14021573f835f7c9dd376f7597b03ba83030f7"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "a0ef8034adaf8b22f36a4e543559455b25cf6abbc54e7f7a3d57c3bcd67827d9"
+hash = "4e83c1af9a9c49d4ca7a67adc6370bcf58fabfa040ace15a62e6e96cdb3064b5"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "d539ad167ee0754a701234303192e0db86f013f9842891d0ca7c43c09885b67b"
+hash = "71c91341cc8ac8773b839d7ca822d8d7084c11a3012e13a10ef0de6daff93796"
 metafile = true
 
 [[files]]
