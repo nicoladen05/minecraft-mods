@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "980d2653a03fdaf15fb652592bcc503bff25dda9e721d627226d091a90a56946"
+hash = "97b20ad7fe16b6166b5a19736852bb7f38ad2e6d3a69b3211fb33de45f6a56d9"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
+hash = "241cece83d6a3c7c0338a9b625972ee25747d14684810778bc64d9613f7a49a1"
 metafile = true
 
 [[files]]
