@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "4626f4c13b47099ed0466cc50e1fb526e9b00de88a39e5e11e66be142ff38013"
+hash = "de8ac33882f1c4c83051c096e7cf181061b8c2157b899ebf023e7ac449e09d6d"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "060b425b0055d87f793f7f8325aa8ad637cb84dd4b33a2908646372e201d5f9b"
+hash = "1b7f1613ef6a3bb72c74fa4d5bcbc7c6b9bbf95ccc33b9465d4f31b02227b69b"
 metafile = true
 
 [[files]]
