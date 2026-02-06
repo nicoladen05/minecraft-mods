@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "a585ec0a1693b2554bd2f04c15bb9d08ffaa2a0c5a74c39bebc8e7e4defe5dc8"
+hash = "06bbba7c3300af8d746c3a5ec1399121ef76eaf8b5ed6c86aed18c0ad2788e5f"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematicdownloader.pw.toml"
-hash = "e1a2ce44038c3b964d1c1af4d98e5ece5dd254b1cac49bfe4d1a3becb2fa856b"
+hash = "701b194f2bb58086f330d8afdd8445614e568d2eb6455e0ef8803eb843a08417"
 metafile = true
 
 [[files]]
