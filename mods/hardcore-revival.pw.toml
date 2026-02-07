@@ -1,13 +1,13 @@
 name = "Hardcore Revival"
-filename = "hardcorerevival-fabric-1.21.1-21.1.8.jar"
+filename = "hardcorerevival-fabric-1.21.11-21.11.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/XuSKGBLe/hardcorerevival-fabric-1.21.1-21.1.8.jar"
+url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/ZdOZmM01/hardcorerevival-fabric-1.21.11-21.11.3.jar"
 hash-format = "sha512"
-hash = "0b96d092e8b2a3bc4204e5dab33774a8d57c9669d5c8d7276e36c66e4b4289544a86b7138f411d0bb152809aa908dad9c20d005fc8b00fe7b86685cfc839b571"
+hash = "5b2f76f1150c539a14641c51f2fae862d16fb232d075eb00b460b8bfd5800407b8d3e7ec41b4f9555973c2a1a18b52cbc6715756d19e370881389074134250ac"
 
 [update]
 [update.modrinth]
 mod-id = "HqKoXaXz"
-version = "XuSKGBLe"
+version = "ZdOZmM01"

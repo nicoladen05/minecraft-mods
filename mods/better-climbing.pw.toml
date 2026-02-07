@@ -1,13 +1,13 @@
 name = "Better Climbing"
-filename = "better_climbing-fabric-3.jar"
+filename = "better_climbing-fabric-5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZucWZEBV/versions/6nQWk1fq/better_climbing-fabric-3.jar"
+url = "https://cdn.modrinth.com/data/ZucWZEBV/versions/Ee9YsXGe/better_climbing-fabric-5.jar"
 hash-format = "sha512"
-hash = "c6bec1500149bb59dd1a5eefda549323313747d9388da38e5347c63d4320f30aff239969a19ea2d437489ebeb1cc4ae293b55261132ac90ec57ee6c123603fb7"
+hash = "daf1f0d2e57896f064fa1d1f008be3b06e4cdcf681fbf81209983d8096c2d83d20cac8e2f902a7029a24fd2087cd4112906cf839e22ed704df687c62c3e70bc8"
 
 [update]
 [update.modrinth]
 mod-id = "ZucWZEBV"
-version = "6nQWk1fq"
+version = "Ee9YsXGe"

@@ -1,13 +1,13 @@
 name = "Enchanted Vertical Slabs"
-filename = "enchanted-vertical-slabs-2.3.2-fabric-mc1.21.jar"
+filename = "enchanted-vertical-slabs-2.6.5-fabric-mc1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TG1cHkRf/versions/dVIfiSnc/enchanted-vertical-slabs-2.3.2-fabric-mc1.21.jar"
+url = "https://cdn.modrinth.com/data/TG1cHkRf/versions/LmDV1Uwd/enchanted-vertical-slabs-2.6.5-fabric-mc1.21.11.jar"
 hash-format = "sha512"
-hash = "a199bcd1bd29c599a61a481de5e1d2ebd4aca96aeb75a1f543c197b73c80ccf10a70639a6940f4bd1c38c82104a7c3a3b81108e9795df5948a4caeb62035ca39"
+hash = "df840d23091cdf027a5b8c6c10f4d1f89cd9e0c33e15290e110f7665491d4823f574ebfbf06ce50fb28f8b07cb0c9a694708b6af9ca49a4cf9e4168f61010c0a"
 
 [update]
 [update.modrinth]
 mod-id = "TG1cHkRf"
-version = "dVIfiSnc"
+version = "LmDV1Uwd"

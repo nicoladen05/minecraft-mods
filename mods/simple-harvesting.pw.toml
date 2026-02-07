@@ -1,13 +1,13 @@
 name = "Simple Harvesting"
-filename = "SimpleHarvesting-1.21-1.21.1-2.0.jar"
+filename = "Simple Harvesting 1.21.11 2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W1TjtEQz/versions/OZNuu9SY/SimpleHarvesting-1.21-1.21.1-2.0.jar"
+url = "https://cdn.modrinth.com/data/W1TjtEQz/versions/dabjPedq/Simple%20Harvesting%201.21.11%202.1.jar"
 hash-format = "sha512"
-hash = "045221680a33f82b300e72194cbf558643bfe8c499896c6fe518aaae11a87fbcf857b12e4ace17b9fdcf4ab868906fecbf2eef642f063155c60a44c4b81142df"
+hash = "54b6be4f13086928ea7c50ca0975e366d615874a44c8bb4c6ccde406291809ec74783a105a4e1487d23488da8ae955dbedecbe8871ed5d968888b311bd8e9b7d"
 
 [update]
 [update.modrinth]
 mod-id = "W1TjtEQz"
-version = "OZNuu9SY"
+version = "dabjPedq"

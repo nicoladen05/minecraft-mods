@@ -1,13 +1,13 @@
 name = "Crate Delight"
-filename = "cratedelight-25.09.22-1.21-fabric.jar"
+filename = "cratedelight-25.10.11-1.21.7-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/elNrtwZk/cratedelight-25.09.22-1.21-fabric.jar"
+url = "https://cdn.modrinth.com/data/9rlXSyLg/versions/IR6GwDZc/cratedelight-25.10.11-1.21.7-fabric.jar"
 hash-format = "sha512"
-hash = "135bbf3a66b7e93e4788c9c1613dd6c82b3a4a0ce431f1ece5bd24cca07b80b6db0a90ac8c71c7ff46423bcb204ff31057849d78d2129f874d17389b886315ea"
+hash = "8328dc47d7610ae149c88f5078b3059919ebad3553738464e14aeee8ed887344a2cef13824d8bc18ef7ff5e5dc78b9f0248fe612b4c239b08d119f78cf5f6fcc"
 
 [update]
 [update.modrinth]
 mod-id = "9rlXSyLg"
-version = "elNrtwZk"
+version = "IR6GwDZc"

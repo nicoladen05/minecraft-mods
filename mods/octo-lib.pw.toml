@@ -1,13 +1,13 @@
 name = "OctoLib"
-filename = "OctoLib-FABRIC-0.6.0.4+1.21.jar"
+filename = "ShatterLib-FABRIC-0.6.0.6+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/Y7xho3TM/OctoLib-FABRIC-0.6.0.4%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/qILuB0de/ShatterLib-FABRIC-0.6.0.6%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "76156670e0d1ae1bf4ac4a3ab05c97f819ed3cedd0aea6c685be91e0de27f9a7b0ba37672d13bb631d58a55d63578c9b0263195d779f86e351660a7be940a0a8"
+hash = "edf36b4d8d6fb6073e5842c50588520d81d526eef4de0a3343a14234d1b870b366a73477f88512f89d0dc082453874010dd238f008781c19c07639e00517a337"
 
 [update]
 [update.modrinth]
 mod-id = "RH2KUdKJ"
-version = "Y7xho3TM"
+version = "qILuB0de"
