@@ -84,7 +84,7 @@
       "keys": "BUTTON_2"
     },
     "easyPlaceToggle": {
-      "keys": ""
+      "keys": "N,E"
     },
     "executeOperation": {
       "keys": ""
@@ -102,13 +102,13 @@
       "keys": "N,DOWN"
     },
     "layerNext": {
-      "keys": "PAGE_UP"
+      "keys": "UP"
     },
     "layerPrevious": {
-      "keys": "PAGE_DOWN"
+      "keys": "DOWN"
     },
     "layerSetHere": {
-      "keys": ""
+      "keys": "HOME"
     },
     "nudgeSelectionNegative": {
       "keys": ""

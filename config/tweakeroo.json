@@ -225,14 +225,10 @@
   },
   "Lists": {
     "blockTypeBreakRestrictionListType": "blacklist",
-    "blockTypeBreakRestrictionBlackList": [
-      "minecraft:budding_amethyst"
-    ],
+    "blockTypeBreakRestrictionBlackList": ["minecraft:budding_amethyst"],
     "blockTypeBreakRestrictionWhiteList": [],
     "entityTypeAttackRestrictionListType": "blacklist",
-    "entityTypeAttackRestrictionBlackList": [
-      "minecraft:villager"
-    ],
+    "entityTypeAttackRestrictionBlackList": ["minecraft:villager"],
     "entityTypeAttackRestrictionWhiteList": [],
     "entityWeaponMapping": [
       "\u003cdefault\u003e \u003d\u003e minecraft:diamond_sword, minecraft:golden_sword, minecraft:iron_sword, minecraft:netherite_sword, minecraft:stone_sword, minecraft:wooden_sword",
@@ -255,9 +251,7 @@
       "minecraft:white_shulker_box"
     ],
     "fastRightClickBlockWhiteList": [],
-    "fastRightClickBlackList": [
-      "minecraft:firework_rocket"
-    ],
+    "fastRightClickBlackList": ["minecraft:firework_rocket"],
     "fastRightClickWhiteList": [
       "minecraft:bucket",
       "minecraft:water_bucket",
@@ -288,14 +282,8 @@
       "minecraft:invisibility",
       "minecraft:water_breathing"
     ],
-    "repairModeSlots": [
-      "mainhand",
-      "offhand"
-    ],
-    "unstackingItems": [
-      "minecraft:bucket",
-      "minecraft:glass_bottle"
-    ]
+    "repairModeSlots": ["mainhand", "offhand"],
+    "unstackingItems": ["minecraft:bucket", "minecraft:glass_bottle"]
   },
   "DisableToggles": {
     "disableArmorStandRendering": {
@@ -763,7 +751,7 @@
     "tweakRenderLimitEntities": false,
     "tweakRepairMode": false,
     "tweakSculkPulseLength": false,
-    "tweakShulkerBoxDisplay": false,
+    "tweakShulkerBoxDisplay": true,
     "tweakSignCopy": false,
     "tweakSnapAim": false,
     "tweakSnapAimLock": false,

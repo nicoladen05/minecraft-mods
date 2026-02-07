@@ -1,0 +1,13 @@
+name = "Bundles Beyond"
+filename = "bundles-beyond-1.6.0+1.21.11+fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VhUy58Cq/versions/2bcn7gXU/bundles-beyond-1.6.0%2B1.21.11%2Bfabric.jar"
+hash-format = "sha512"
+hash = "de15dd4db27b9ead2d11c2a1e82867450dd1b830bca7f4ed6d213d0474c3a95e8800b7546578e0f2a6befe3032efe687006937c371a9f4580c43c2705a942eae"
+
+[update]
+[update.modrinth]
+mod-id = "VhUy58Cq"
+version = "2bcn7gXU"

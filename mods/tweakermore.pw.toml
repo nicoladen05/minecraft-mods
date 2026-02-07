@@ -1,0 +1,13 @@
+name = "TweakerMore"
+filename = "tweakermore-v3.29.0-mc1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/NKsKX2Rr/tweakermore-v3.29.0-mc1.21.11.jar"
+hash-format = "sha512"
+hash = "3cc1b1e1f2d45c6448c2f03712df3e31167a37e718f0abdf83b757c1e0232423db83f777647ccd1b4975f23a80e27185701d5921664346da5c439b1782099dee"
+
+[update]
+[update.modrinth]
+mod-id = "GBeCx05I"
+version = "NKsKX2Rr"

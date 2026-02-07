@@ -1,13 +1,13 @@
 name = "Here 'n' There"
-filename = "herenthere-fabric-0.6.0+1.21.1.jar"
+filename = "herenthere-fabric-0.6.0+1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CdTnUpve/versions/ix53DwMW/herenthere-fabric-0.6.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/CdTnUpve/versions/65e6uRj6/herenthere-fabric-0.6.0%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "7d0dc1c2ce3001648ae8590a46f2d5ac3e2c1b5859f93ad88e7385a47a762bfa3a5a7dda851ef377813491f281289518a7f047f94d3366ecd420273a30e9d56d"
+hash = "25819506e96779acf16b6b96092ee5bc650054b633684a8930a97c17feb4b2a95be788c2412521fed47327e787b2f1c99e13dca38d725fba824828714210712f"
 
 [update]
 [update.modrinth]
 mod-id = "CdTnUpve"
-version = "ix53DwMW"
+version = "65e6uRj6"

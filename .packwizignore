@@ -1,4 +1,4 @@
+/.direnv
 /.github
-/flake.nix
 /flake.lock
-/Instance.zip
+/flake.nix

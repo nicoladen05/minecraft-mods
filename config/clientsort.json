@@ -8,7 +8,7 @@
     "autoOpDelayContainer": 2,
     "hotbarScope": "HOTBAR",
     "extraSlotScope": "NONE",
-    "bundlesUseLeftClick": false,
+    "bundlesUseRightClick": false,
     "alwaysMatchByType": false,
     "typeMatchTags": [
       "enchantable/weapon",
@@ -31,8 +31,8 @@
     "soundPitchMax": 2.0,
     "soundVolume": 0.2,
     "allowSoundOverlap": true,
-    "isolateKeybinds": true,
     "showButtons": false,
+    "anchorButtonsLeft": false,
     "firstButtonOp": "SORT",
     "secondButtonOp": "STACK_FILL",
     "thirdButtonOp": "MATCH_TRANSFER",
@@ -112,9 +112,7 @@
         "matchTransferPolicy": "KEYBIND",
         "transferPolicy": "KEYBIND_BUTTON",
         "autoOpOther": false,
-        "ignoredSlots": [
-          0
-        ]
+        "ignoredSlots": []
       },
       "net.minecraft.class_1730": {
         "className": "net.minecraft.class_1730",

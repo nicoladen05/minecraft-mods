@@ -1,0 +1,13 @@
+name = "SignalLoss"
+filename = "SignalLoss-1.2.0+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L3l9tG1q/versions/23lvuXoB/SignalLoss-1.2.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "9e05638da042d95174edcfe3979eaf6372848e5731462b2ee39571d4e63763cd931f397b4816e4250cee07e517247fee0c8225021afb66f003aececf44058c05"
+
+[update]
+[update.modrinth]
+mod-id = "L3l9tG1q"
+version = "23lvuXoB"
