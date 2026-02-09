@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "45cce9573e88c0e64e9b5f3985ad379bf65de5843b5468d924888b10c3ee9875"
+hash = "ce80aa5fc77e4e32a0a8788e63a206b77475dd3ba63351098577d2e3530b36aa"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/shuttfup.pw.toml"
-hash = "d44432512af8fc6992c273a01e26b9067d26f52b02f4f252476832b69d25851c"
+hash = "d1526cf875839005b3e0cfc3580826829c99d348704b82cccff1ce0306063621"
 metafile = true
 
 [[files]]
