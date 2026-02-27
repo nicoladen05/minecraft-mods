@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "7b587cd143d5f24804b6f20c6adb51816afd1f8167ab15f434d8b19ad725b7c6"
+hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "840df7661c1bbb97312f39102d479d80b2b149da533c623f633d9715295ca91c"
+hash = "0daa4e02968a34979c5a13772883d2f3ae4c92943461ba069667d15f42bb6a94"
 metafile = true
 
 [[files]]
