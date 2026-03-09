@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematicdownloader.pw.toml"
-hash = "701b194f2bb58086f330d8afdd8445614e568d2eb6455e0ef8803eb843a08417"
+hash = "624f554865be3599d0c31111d335ba379774551e04ca85b74d1425d84c91134d"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/llitematica-quick-share-addon.pw.toml"
-hash = "5121d59e9f3fb2acec506149f942a0dd39354187df0ac744b3efc300f1ed89f0"
+hash = "353331a1f69a0e432890ba0b580056750752e61b6b074f38f4f3c1296f826e86"
 metafile = true
 
 [[files]]

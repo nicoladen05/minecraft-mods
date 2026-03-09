@@ -1,13 +1,13 @@
 name = "LitematicDownloader"
-filename = "litematic-downloader-1.1.2.jar"
+filename = "litematic-downloader-1.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/T3G2Q24n/versions/5F1qIRJi/litematic-downloader-1.1.2.jar"
+url = "https://cdn.modrinth.com/data/T3G2Q24n/versions/KtZoMyrt/litematic-downloader-1.1.3.jar"
 hash-format = "sha512"
-hash = "de412b7083c15dfe73ae3cd70172553f74549c9e3467e2b8c9494274130112e6da9621b517c069e3cf6459debca517b106eafec64cc093feeed232f95dd0097b"
+hash = "ee5ad5eafa6494322b1732f4f06200e101e9b90da60dfc7c938e2c8b1494e0c10a3cc4194d38992f90f475f5f8df1562c6972889a9b709416d0515d99eef3a5f"
 
 [update]
 [update.modrinth]
 mod-id = "T3G2Q24n"
-version = "5F1qIRJi"
+version = "KtZoMyrt"
