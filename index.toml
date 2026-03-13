@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "7ffd2cbb973d987d543b36f12cc9362baae07b0983b83a8292f063ed4287f9a9"
+hash = "9d1afa5a89577bd21da0708c13d66f32224d5f7817451d9c41f5d9b76dcea9b6"
 metafile = true
 
 [[files]]
@@ -225,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "35046c4e24fe750c6f5e7531db105eb825e4fa45c182b4301af059b2f26cb239"
+hash = "003c6378873011724beeaadccff5b9d6742fd2bc83008add042ac42e132364df"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "590d8c454461493a6a60a6efe9a43bcb94231e7b55c7382f1aa209ad7a572f99"
+hash = "1be2ecc348ef5dde1ff83aa9e03c0b6ff767cfab1f4cf409c95bb654d29473ce"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "ad1110e02639ce1dd8afd73ca567d44fbe592c662d656fee567b6c1f7ced308d"
+hash = "ea89277e095f61f86592bac8b8cad7835bd1e05e6924e8c97fa7aa3e568eaf5a"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "a5f622a1035c7aee583c471f49b90ddead222a57213f89664a5e9fc266b5cdf8"
+hash = "537b0bf7ad2508c0f95f116768aeb9e7149c98660c1afe76b045800df172cd16"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "05d3bf3084dd6713858d437880a5cc1e4977e1760deaef31300bb25542c4aa70"
+hash = "cb61bf2f9e33b69b733489b7990de70ff3f4d4092d64074797fb2fdfa0cb5090"
 metafile = true
 
 [[files]]
