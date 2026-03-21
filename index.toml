@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "15a9d89a713cfd48f16183a7b631739609d2268b33516e64db760ce5f4064a1f"
+hash = "e71d0f7958b1ada6bcfb869d0ae9b14710d266974ff1ec981694358e61ea9b45"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "0daa4e02968a34979c5a13772883d2f3ae4c92943461ba069667d15f42bb6a94"
+hash = "523ad6f9229c4085282e1cba631948069053cf51ca9f1aa3493aa8ca57dcb577"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "71c91341cc8ac8773b839d7ca822d8d7084c11a3012e13a10ef0de6daff93796"
+hash = "5e66c223a804b935bb3cbd2f5b6823b601bc736d6f148202579ae19e9806ef0c"
 metafile = true
 
 [[files]]
