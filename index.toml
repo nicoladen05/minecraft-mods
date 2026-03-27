@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/llitematica-quick-share-addon.pw.toml"
-hash = "353331a1f69a0e432890ba0b580056750752e61b6b074f38f4f3c1296f826e86"
+hash = "052b40dc36c954ac34bb3573a3197341ca6ea60dd401d54a1321d0713de11687"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "523ad6f9229c4085282e1cba631948069053cf51ca9f1aa3493aa8ca57dcb577"
+hash = "f2cd50a5fead333e9474f7189eac26e7c32ba6e6aa320f1eb014d1c37f13bd92"
 metafile = true
 
 [[files]]
