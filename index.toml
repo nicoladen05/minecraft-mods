@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2e1bb932b2f5eab24ca8829ce52ba5fd618d5929d751c5b1d38ecdd68f3212ac"
+hash = "1a46fc1461381334dc18d4ec2bf9368d2aeb97c83eaab6ccf85ccf515497ebd0"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "3f5679e5212d0cb5e6700b4d13001d435e60fb9151121e01f83d9f10d296eba5"
+hash = "d614525d2df34cdd07b0fdb5c774b72266ed4b4be55aceccef7ac5c7d66ae167"
 metafile = true
 
 [[files]]
