@@ -50,7 +50,7 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "fcfbde34c4d9f01f2ba1397f424060e204b6ea994ccb2394e86e4da33e02965c"
+hash = "d2d3b3714284fd2683c121d80bf9662289c9bb2df7f0a0c80ec741cf8fd4c9b8"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "5e66c223a804b935bb3cbd2f5b6823b601bc736d6f148202579ae19e9806ef0c"
+hash = "96af760f1cfeb1371b8be2989d63186e632372db6da09ed587b36f454721eeb8"
 metafile = true
 
 [[files]]
