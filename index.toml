@@ -225,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "9b0569ba1e30ceab623e9a09b1111a96bf8dc277fc933d0306950e699e9df886"
+hash = "5cfb7ce2aca00e572724b3fff7a80846e9ff8db304a6f143bd7414e8de071d08"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "94d7bb39b8ec02e47d319222db23c6d57da2a4ce9195e111f9822f40fefb299f"
+hash = "42a2eef2edf51e4c038ae6f9de8b24745b2516146cdb79b0e7917f83b54c7468"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "ea89277e095f61f86592bac8b8cad7835bd1e05e6924e8c97fa7aa3e568eaf5a"
+hash = "fb1dd2522c64edac0b8f28d0b6e66294a27ae442735c105312e779c5a892bb08"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "61a707b93264a0f4339d168ce3d63d4dfcf6748d2ea71c2f032f2b68eb30a355"
+hash = "32d5fa474ab7b60acfa09094744542fd8215bace6d90904ad7a188a04eb472e5"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1a46fc1461381334dc18d4ec2bf9368d2aeb97c83eaab6ccf85ccf515497ebd0"
+hash = "092ebf2a18d3f4ebf3d95d2efb9282b0fe13673eff1d20e092fb22345785e3d1"
 metafile = true
 
 [[files]]
