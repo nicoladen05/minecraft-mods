@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7b83af5380faba6641a6fdf27e239eba79846f6b66a65da810860a8cb1e86ee4"
+hash = "481192fb349be87304022d2801bdf77be7082217fcdedf15a8f5da0a4e1a5ba5"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "5cfb7ce2aca00e572724b3fff7a80846e9ff8db304a6f143bd7414e8de071d08"
+hash = "b7b5bbf825041cef4b95e357f3e7594042f6e1e76a169ec3782cf4d8f4a78467"
 metafile = true
 
 [[files]]
