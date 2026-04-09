@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundles-beyond.pw.toml"
-hash = "15405277b8318d28990a64d0a75fa0082597a313c9f9aa20f0f32b8285a85caf"
+hash = "9c5259a11d63be31170371e00b2152237f5ae976e4cca1cc5d94ed22f41907e5"
 metafile = true
 
 [[files]]
