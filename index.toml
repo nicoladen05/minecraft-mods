@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+hash = "d7af20e7385c4f529c297a282881cfd5a9afee9e4fa948177c1c18fb591a048a"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6932ffe04ebe5f86c43b8afca22824e193ec082750e87933e293dba4e6f22504"
+hash = "e8098c1c7cd6bcb3d33af2f7a5110b499efe26c3be6a3eed985c04dc8e980cc7"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "d614525d2df34cdd07b0fdb5c774b72266ed4b4be55aceccef7ac5c7d66ae167"
+hash = "db4d3def114d5af2e7df577d93173b5ed8f9e1ed3769486679c4086fdcc08070"
 metafile = true
 
 [[files]]
