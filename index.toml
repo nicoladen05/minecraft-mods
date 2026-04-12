@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "06bbba7c3300af8d746c3a5ec1399121ef76eaf8b5ed6c86aed18c0ad2788e5f"
+hash = "23d220e24bcb304b2b48f326775f6bd17ffcbd12cd7af5ad7c0bdbe26f200473"
 metafile = true
 
 [[files]]
