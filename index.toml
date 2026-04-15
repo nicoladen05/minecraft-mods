@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "777ba6f5f1ea6e8bde6d1ed1ede9c8097e43f92c9759ea48ac43070f6a952ab8"
+hash = "a3dbb9706ae30bfe8637d13117dc453784ba5fc7e6747ff9820a2d1aab0ff2c2"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "db4d3def114d5af2e7df577d93173b5ed8f9e1ed3769486679c4086fdcc08070"
+hash = "667a9c5628e469e7fdb760df8d979c169b91943bcb1ef50c38c311e5075d3846"
 metafile = true
 
 [[files]]
