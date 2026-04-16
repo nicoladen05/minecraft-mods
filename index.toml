@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
+hash = "80a28b4e05765b7f1d40db54ec313cafdf772645305dc5034919592534c806e9"
 metafile = true
 
 [[files]]
