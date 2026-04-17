@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "80a28b4e05765b7f1d40db54ec313cafdf772645305dc5034919592534c806e9"
+hash = "6669f33967bd24895a21476c1701d4932ae14a8516d318d9266e0d42eb38ee60"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/shuttfup.pw.toml"
-hash = "d1526cf875839005b3e0cfc3580826829c99d348704b82cccff1ce0306063621"
+hash = "4182bd98687e1a26760e0cb2bd8addc634ce96a2e70f3d8dae5acfa184bf31aa"
 metafile = true
 
 [[files]]
