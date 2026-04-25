@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "e4317c6f16d4143c085e198d82690d660e8d0af7c46cc52bf6c900248b5d718e"
+hash = "4dec9aa6f2b45c76f04525c7b8bc9565e11dfbfdeb464d12f68c1b9333ba88ba"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
