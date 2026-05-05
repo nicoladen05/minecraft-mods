@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2eecfde12159410aa97c09f4010cd18229460c0442ceeeb162b8eeb7fa5ffae4"
+hash = "dd7d0af1d65539d7e884e88d822b6884bc1f2989ac5694420096a41c29ce53e5"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74d55f8ffee46b10c6d4c709c298a72e1233cdd393707c223b3e861d7f104a88"
+hash = "69bfe15c54b432a2ac2c791a71842d0fe0ea2dd7f84e59324cc4c76168b85a06"
 metafile = true
 
 [[files]]
