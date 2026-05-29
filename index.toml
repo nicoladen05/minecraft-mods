@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "25b319070234be85e1f79404b307941e7a79e469b92aed35449143f643721c62"
+hash = "4ab03dde7db802bbbd9e883175d0ada2d672120e3b1ae7cf9799a454f24179c0"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "dd7d0af1d65539d7e884e88d822b6884bc1f2989ac5694420096a41c29ce53e5"
+hash = "f1125e6dabcd5589c9eab4aa63ec0cef6ecee58417f73d191f22abeffdd0766e"
 metafile = true
 
 [[files]]
