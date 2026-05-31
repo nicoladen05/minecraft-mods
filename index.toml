@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "14dfbcbefbcff28bf2529c1561fd649f12a0b9f89893d1e9afd56aee4927c522"
+hash = "419845064317ff1ab67e35eff2ec42b970e0de06c4a312de21a4472da7ecca1a"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c40d8e77ffbe90eaef56e4acbb1f74850792a7541254c77d65ba382e765e61be"
+hash = "d834a23dade08b30d08e58521d51800d6453e195a6e0af2b2b70b09b8d3199ee"
 metafile = true
 
 [[files]]
