@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "e03153de5a73e99125c2910a480189eb4b1fa2cca3237c4be72fab248a82516f"
+hash = "1589b31198d51ded00c35a14487e4ba28b5f68133e1dbaa54c5081b3db4818b6"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "061d326a85c4def3badc67b8484243ee3fb49498868ce35c3a53e86c53fa2954"
+hash = "3de84e5e30c3d96ac5491e04ed1f34a83a68c27c40120e6e8bea1f06c86bb31d"
 metafile = true
 
 [[files]]
