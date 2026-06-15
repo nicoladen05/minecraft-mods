@@ -1,13 +1,13 @@
 name = "Auto-Run"
-filename = "autorun-mc1.21.9-v1.3.1.jar"
+filename = "autorun-mc26.1-v1.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/2deAbVBY/autorun-mc1.21.9-v1.3.1.jar"
+url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/INAo7pKI/autorun-mc26.1-v1.5.0.jar"
 hash-format = "sha512"
-hash = "a7b27bd5234108005309d48f6af49bc7f4ef209bf1b413e4f3d8f3a40ab6d75875567b33e988d016b6b2608c5b85ee8712939115e2ee6e3ebf57738f41c8a415"
+hash = "05ad992306d3cdfdbf54ba31e3b3b53809975552f0732377c22bbe205f4bc074a8af60344dccf50ee1344c68bd988339c6ecdacb48b67b9e241042c7e4a2a456"
 
 [update]
 [update.modrinth]
 mod-id = "2i7tg1Wv"
-version = "2deAbVBY"
+version = "INAo7pKI"

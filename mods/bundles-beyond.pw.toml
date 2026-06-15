@@ -1,13 +1,13 @@
 name = "Bundles Beyond"
-filename = "bundles-beyond-1.6.1+1.21.11+fabric.jar"
+filename = "bundles-beyond-1.6.1+26.1+fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VhUy58Cq/versions/C87VX5Bg/bundles-beyond-1.6.1%2B1.21.11%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/VhUy58Cq/versions/pMFGoUw8/bundles-beyond-1.6.1%2B26.1%2Bfabric.jar"
 hash-format = "sha512"
-hash = "3613fc65ad538d5d3199571312ff58d7e46fd08591aaf2bae01301b55ec3a7a7ca884f4f36897f072beef2495ef59516084285eee59d4fc537524570a998033a"
+hash = "a0ff47f001ad34bc73e78a8f964ffb75217a70163c62fbaab693245a899cd44b1ebaa70e1f8bdc68cf38539a4fbe84e81f84050a54874dfd547aab269c09caf3"
 
 [update]
 [update.modrinth]
 mod-id = "VhUy58Cq"
-version = "C87VX5Bg"
+version = "pMFGoUw8"
