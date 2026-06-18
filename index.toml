@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "3636c7432344dbccdbcdc595e82cec09d0090aeb365fe8b81cc37892f70332bf"
+hash = "dd558c0a3a5317d461589337cc04f33527e2191ede4dbd680ab9df594aad5e62"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f603986589b293de0361698efa8fd4bcfefca2306a8ec9d7f6de3293feb0c650"
+hash = "47dba1cbfb60a9a2de63a5e6d7c23b85d7b9651e4cb1ab870f4261cd565e3c7d"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0381d4d839dfe85c73bb190fdda645685a1b39d4ea0e7e7ebf74aa5e5c825d25"
+hash = "6b0f085237f1ae12df58bb1a5301b2f5013425241f0def5635e8cba4e3ee9246"
 metafile = true
 
 [[files]]
