@@ -50,7 +50,7 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "8c8f44ed74ea93a496ac1d476ab71b59b0b15a780d5ab60e5559ef637105ee6d"
+hash = "98160b81327752e1ae3c2b05df6c001ec1ff7641adf962b694e73c4edb9d5e3e"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "6b0f085237f1ae12df58bb1a5301b2f5013425241f0def5635e8cba4e3ee9246"
+hash = "820ad38e89258f1b021d34112cd562a42c0afb2e789e438b54f893010dc57e45"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "efec5aea958a879c5fbe00a136fdccfef1d6b963ba072a893a28680953647045"
+hash = "7ca6bac2a100557c450819f063faa2f04f347b91c5cb87db4e946998214dbd69"
 metafile = true
 
 [[files]]
