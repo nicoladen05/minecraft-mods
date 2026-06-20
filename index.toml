@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "47dba1cbfb60a9a2de63a5e6d7c23b85d7b9651e4cb1ab870f4261cd565e3c7d"
+hash = "446ddc6ac054e8aff1152d00269a5e77635faeea7191cc28c9ce0123e30bd52b"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "fff459aa49075067b7b84f3ceafa5271073fa4c22683e9df89f5896ba0f66391"
+hash = "c850b93fb0fd8e21fc214a7b0aaf5c1b60b1f8e6d1eac0c7343b63b46b8fb317"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/herenthere.pw.toml"
-hash = "8e1bd33fc91dba517aa6151bd6a8e48acacb53211e9c5a1247d24e47737edb8c"
+hash = "709495b200400e2a3d642117620d660289730fa9df42e3a4eea62ec2077c17c4"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a2e9d2e08cb39c159b50ab8a0a2c38896700f7ab66a7682d691dd91628b4b34d"
+hash = "92274ecad116e8cd450024603dd8d7225a3d2f8e84f3a97511c4dbf06d09698f"
 metafile = true
 
 [[files]]
