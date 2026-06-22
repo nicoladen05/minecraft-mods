@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ccdf15227c1495a2756b74b8b569a5028d3f30cd4f01b02ea1afa7bd2b0bf841"
+hash = "d738fe51b20c8da621e36a0d65e15d7f4f9f8e2e8162670a2798610079790ee3"
 metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "3a7997105396e8e8b46c7bd8f4cf75f74dd199c170a46d54ad602c414a3f948f"
+hash = "84808257e0cb3880497c415ba1cbc80781dca9339fbab08235dd0bfef290278b"
 metafile = true
 
 [[files]]
@@ -215,12 +215,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a826eb5620b44f763365baedb22075293191abf82b94353252c936f1e5e45959"
+hash = "6a70c950e1f0952e6c7fabad2a7a146fa6d4a84892eae843ccb643b6701b15c8"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c8b294d6eaab29151eb2884525b962ef5506e8fc83d31ea839dbc3d30bd99651"
+hash = "92cb3d9c08bbe3875031152eeed5af0ac58a6152a804690a720cff3b1b10d1fc"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "131f57b021106646b1d243e94154092ba85dd70d5b8c698085fea0008570f46c"
+hash = "b9007e78250c270d253eac2251de00af3408a05f5d04d1b79bb6a7e1c355b2cd"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "1521e14b09f495910837d440057d1b29e96fba81fdb2148b6ac60d9474169872"
+hash = "2e37381a727f9419ee8a23b0918697e8d95a785a4757c3f9e16a218cb969789a"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "92274ecad116e8cd450024603dd8d7225a3d2f8e84f3a97511c4dbf06d09698f"
+hash = "e0fd4f6062972d51fd78d9116cb61f1505c56a1dccfb64ae16453b5faff605e8"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "6557d217f2ec39850a73945d0d3cdd037b631f87342ecf48c0e921d7e44e44af"
+hash = "08f05239423ed9a3a152493954f76725bafda3e1fcd3aff1b9af2283fdf1a687"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "4928ad19eebd85b73681130c0b2854d827cba116083d3388192e3ac174364f90"
+hash = "d8debcfe5335590bd37bdc0157cc50bc2a3e0f56178750d25767226a4f76408e"
 metafile = true
 
 [[files]]
