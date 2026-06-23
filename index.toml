@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundles-beyond.pw.toml"
-hash = "56fdf22defb0ee98d80f59f7fbe8683af194e03f382a91506d4c963bbb51a0c2"
+hash = "54950f499ca4e55ffa2b2591230808fffe9e9ae4b3534bf24ba52387b408a223"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "120585e75f6fa06b138bbb3e681298113c66a084ebe842de3da91d21b5b5b3f9"
+hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
 metafile = true
 
 [[files]]
