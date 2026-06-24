@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/bundles-beyond.pw.toml"
-hash = "54950f499ca4e55ffa2b2591230808fffe9e9ae4b3534bf24ba52387b408a223"
+hash = "f6253ca656957ca271b76400294e2f9c226f96a4a2747c30f36a8734617760b2"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d738fe51b20c8da621e36a0d65e15d7f4f9f8e2e8162670a2798610079790ee3"
+hash = "5f2734854eca45bc91f9fd673920754f2a70feffb881f8013646b171b71e8451"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "67866b7484801e784c42ecd443ebf6a29640fe796feec91c248def2642aec952"
+hash = "e212db98871e5d51f2015f3134090353cec414333af3ba2e6015b8c642f5267b"
 metafile = true
 
 [[files]]
