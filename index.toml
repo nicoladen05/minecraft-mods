@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "d764a7670590b9d268c6fcf698c4a4ee9f68845079467e0dc62251420457eb66"
+hash = "cc48a9dcd23871469286421ad7af7bd0fe07c8b441e0ab93ae40ea380f2ce218"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9908a5a97b50a87f15316bac574871e99d04eb35945fdc9cd2b1d9a49e5a83bc"
+hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
 metafile = true
 
 [[files]]
