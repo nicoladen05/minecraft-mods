@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematicdownloader.pw.toml"
-hash = "7112213cd410f6f3af5a3fca6cfe7ed7c1b652ce902a0a801a936246ebb5b2f7"
+hash = "7180049eecf033aecc4d584c2c2162a180a8ab1b25feaa649461701eaf9fcbc8"
 metafile = true
 
 [[files]]
