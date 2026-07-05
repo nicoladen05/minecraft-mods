@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "c850b93fb0fd8e21fc214a7b0aaf5c1b60b1f8e6d1eac0c7343b63b46b8fb317"
+hash = "34e4b9b0b39b104f7722c0bfc5e37d18b0f214b0b70ca5d9e95fe6cff4b8b87e"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+hash = "ea57cf02ee51c57ed9c9b0fb42f12637d47e2e122eec8dbc34a8c4150bb4c952"
 metafile = true
 
 [[files]]
