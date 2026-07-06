@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "298bb7ba6652ce3664375e597c4a2e54510e840d22ac656fefc36096335c9202"
+hash = "13d5ac69013ba40f8265a5aa31050f2f910d9f3a07495d26325dd9b34b75c962"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "a3a002d06505ee2af2325fe0e16afe60c0622de3688c509096f320c926141735"
+hash = "47f0c2818d82395bbbd0a3fd7f7370291eddc5d846c3d41965ceecc7a0222774"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "3957a6e46b73d687d79e87200d62a5cca8ef3648c3d8017be44e09e1f011ec71"
+hash = "de6e574d9b3cc0a100908658490c8a5a6963bb76cd1b127c696f30d700685607"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4e759a60a56ee0f717e3bc43260d68fe3da9c352d99ef03d71af7f6f3b3d4584"
+hash = "2ab016778787b807a892102b00286346b72cb950d52a63095ce59be63177ce0c"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "605850a08c4ae2895750303cb6bda09467487a2eae4a7ee37faa8069a3ca0edf"
+hash = "93bd34ca9f2dc7f64a2e0f286dde23ccff88eb15e39dc86246fd71438400c47f"
 metafile = true
 
 [[files]]
