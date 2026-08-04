@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "41c95eea2813a8fe923ef8033f084cb264c610f549c97bb58db64734c9703c0c"
+hash = "19e74f770611dabc1bd0713f3a7622abd65b4aaca6b37282135e8fb462630f2d"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "eae7f1cfd6d201e7f45fe8de5d192d570e01060495cbd4e26b2336ee49aa5fbf"
+hash = "7c71254407517706ffe90b7376bbfed2ad8a85a0a1e520c36a9a13ea7d25c2b7"
 metafile = true
 
 [[files]]
