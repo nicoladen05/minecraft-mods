@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6e746361934be98d7b3856f85d4984a611611dbacbecbcefc14fe12b97c81339"
+hash = "2d7d7cd4670d42a52aeb9d5761166f4c79eecf5513b10f86cc1b39d30e02557a"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8445070cb77093b7e6537e687c2774bcca50bc32f753d47fc04f8d5f2534b432"
+hash = "523d44f52982627e90ab3cade5e1baf74676a10df2379cd631b69088d1f34798"
 metafile = true
 
 [[files]]
