@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "74ceb2fb26577fcd4fe6ffcc8411aaa9ee754e2f34edbe4aa4d4ad752176c379"
+hash = "91571eae628fa8036a790427dcf49774013199cf3809faec85c40996bec5b61b"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "2ab016778787b807a892102b00286346b72cb950d52a63095ce59be63177ce0c"
+hash = "0e7a7e79546754fbf47a6442a804042941dfae20e7ea611c50ee41335ed1854d"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "c6c8a308ea0716492e599be63ac94e806789215a40186b8d880f293aa7462d31"
+hash = "cb4e621e9e5beebccbdee05a16ae31118aab5e13344921551567ad751ad8cc37"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "4295e14e6d11ca0884a52ed65b2435546ff5f323961afba5563e1e8aaca4cf70"
+hash = "cfc9c569c500dcf41c03712d6be8479af162d28c93f180bfbb04413279697bba"
 metafile = true
 
 [[files]]
