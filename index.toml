@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "e29b73e6ca891a08ed8feec8c629d7f2053ef4943088d5671eed122535c84e43"
+hash = "9f0d0ec807e8060e805cf1492f5a172be78d71d3ab09a9cbc82deda12355cdc4"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e2701be159cdf58e7046c9e7b38f8f4f8fd821a5bfec1f831a2f70d542271d8a"
+hash = "40e1413ad8c52174c364a2d1681c988615532345a8bd48d8f2898cefa66924dd"
 metafile = true
 
 [[files]]
