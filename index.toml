@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "9f0d0ec807e8060e805cf1492f5a172be78d71d3ab09a9cbc82deda12355cdc4"
+hash = "9766b0eb74c5a0ec32936050cd9fde989e3806a2902a97fea1c61aea8b64c782"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8532ef1557ef154dc93177fef2d61df8debd8f4def08142a7ac41d0416e4b12f"
+hash = "ee002e5d6ad62150afe62bf8a6f254f56630e2ae9d414131f89cf2676664a493"
 metafile = true
 
 [[files]]
@@ -359,10 +359,10 @@ hash = "aabcdf1bb3f4b2304a8be9d01cd90b3e570e6a40842821a0fb78836e0a493b27"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1ea0f1604ce00b5a40b9ff4b679a5ec69dcc72bef9a75225a3698d10edd514b1"
+hash = "8c756c7fbf516b8d227e5f48afe3de8c2cbc89fd8769ea019a727eef57419556"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "6c3e383528781963424860b339d4895a04f46405c1c730bdd7bfbc0ecc7ab3f7"
+hash = "a77ad8415551594d437c8a700131028fe6ec870dd524d3c966cd8042d0d30171"
 metafile = true
