@@ -50,7 +50,7 @@ hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "98160b81327752e1ae3c2b05df6c001ec1ff7641adf962b694e73c4edb9d5e3e"
+hash = "bddae37f9a775ecb16a506195f219fb5e4fd350a6df0790e7c015a0520588165"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "47f0c2818d82395bbbd0a3fd7f7370291eddc5d846c3d41965ceecc7a0222774"
+hash = "7ebfd4f6742b0b20b065bf30d53024eb5f289cbdeea69c3a5f582f7a8c97043d"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "d483b69d05922629fddfbfdbe3a9bf6c9730cdba333e0a9b610ee33b118f8781"
+hash = "7b942a5397c4099e1870107834aa6b33d36d800ef42166245d380715acd34b2c"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "69c22da34417d9427f70240facd527a5e681635d93aeb7c94ef17015e31d678f"
+hash = "e524d132df448089fbbedb26ecbe2792395ed818a60697f9226cceb647b15475"
 metafile = true
 
 [[files]]
