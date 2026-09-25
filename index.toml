@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundles-beyond.pw.toml"
-hash = "f6253ca656957ca271b76400294e2f9c226f96a4a2747c30f36a8734617760b2"
+hash = "bb156c13dcc28dae822eae0b0de4c1e4d5b97137b7bc974c47d29d078b6e9981"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9d031aefb9acf62b4c7c6b6f53d4427db1996de071895c06d921c2977c7d7e48"
+hash = "5589b35ab770daa5deb3d5ee1b1279c2eafe2334ad17e140b51e68f121123047"
 metafile = true
 
 [[files]]
