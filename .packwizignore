@@ -2,3 +2,6 @@
 /.github
 /flake.lock
 /flake.nix
+
+# Mods waiting for Minecraft 26.3 support.
+/disabled-mods
