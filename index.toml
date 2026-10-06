@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "675f699380335f4b83b2626eaa430950ddcf2ce52b43dacc4b2eb93adc809b4c"
+hash = "ee61a0d82f97cca2c190db02ad7456dda366427986f5483fd700d9fb82338301"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b342a83e9736f0832e750c8d631273cf600305d73b32c8bd6a977811f6972ee"
+hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "c3dbbcbc00ba789c38a7fe9081336e302fae3423417e2fd9da73cec385ba9c61"
+hash = "fab2eeffabb3466352e75004711835a34ef19688488468d18b7b2f3a3c0e67f6"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/signalloss.pw.toml"
-hash = "129675254ba405e9eaf5ad46607a978a35d5e48d826a8428894ae4ae396d29e2"
+hash = "db859470767ff5fd9cfa21f4e4e24b2f03c113ee21537ccf4aaaa259752785af"
 metafile = true
 
 [[files]]
