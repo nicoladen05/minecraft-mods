@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "037a156dff9609bea2f09ff635fccb34df6814ca0383a506dfcaaa39622e27d9"
+hash = "f4e4462219c63a8e43019670f21d3c52a5294ca4c70c55182ba6df02a803eecb"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "fab2eeffabb3466352e75004711835a34ef19688488468d18b7b2f3a3c0e67f6"
+hash = "fe3a1e2e9ac0f652a2daab5c9a4306ef49d3c28a316483f5dfb4159ca87e5a3b"
 metafile = true
 
 [[files]]
