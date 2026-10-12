@@ -254,11 +254,6 @@ hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
-metafile = true
-
-[[files]]
 file = "mods/peek.pw.toml"
 hash = "fc55a57f2a3e5b3f044baf080829c9f5b26ed5eb98097532e845da6019a2f379"
 metafile = true
