@@ -144,6 +144,11 @@ hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "a03783c89209074ecd8e237b58694488c1191bc99a82319d69addb0263741bd1"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "d3ba4cdc25e692082fae2e376fe469b411afef313954a4f28568be6d1aa460b4"
 metafile = true
@@ -224,6 +229,11 @@ hash = "af1aa288455f8d8e4ce04e4bc8b06e2a9d1a6d833dfc83465ecaa7b0558d95b8"
 metafile = true
 
 [[files]]
+file = "mods/ji-afk-cinematic.pw.toml"
+hash = "3c0d485ca34554ec99c9c406d63ae316b4969cf80e0424ecd865f531b76e3b3a"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "5f52a5a69d6ea21c65a9df879fb9b334ed2aaf3ddb50bf13c9e2a57cc079a50d"
 metafile = true
@@ -271,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "79f8a0c041d07260a01a65a0e3810babcf1d859a8d7593545dde90bcf39dc20f"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "f099f10bf7926d341f30c46328f3735822c8990431400440e5ff3618ee9d4f4f"
 metafile = true
 
 [[files]]
