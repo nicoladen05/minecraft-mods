@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "392746505f6c2b765d6fcaed8179f36ddfff4deb30fd83a2590bbf36638e7e02"
+hash = "7e3d364a831d96c8aa2bc6d385812308a38d6561ebff6dd13781400be4e3ce40"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5650bba7cb2d17f5ac1c543ee6c0d72560624aa530e1dc51d2aa9772e96d991a"
+hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "a63b82ca2683ca3d274c3876f0871aadb9f3651b526471f7b24b0481483198a0"
+hash = "f364f593df41130f37f525028432f9a3e1501e5781605482a1f28631cf807284"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "79f8a0c041d07260a01a65a0e3810babcf1d859a8d7593545dde90bcf39dc20f"
+hash = "1468fe3ca18b35fc53563de46046b3ada11913f1ca2a74b057437474128df85a"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "1adf566c901166db733f5758819a3dbdc6414f38e5cd80dd9c3a11f25c27ecc6"
+hash = "691f157c8a6e848a1bc41caf13897097dd7c4b618455716eea159e26ed527fa7"
 metafile = true
 
 [[files]]
