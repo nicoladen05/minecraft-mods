@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/accurate-block-placement-reborn.pw.toml"
-hash = "88a553f5dbff584e5c54a2ecbd7dd9a76755422ae6315952a449dd1424f11fa1"
+hash = "218cc3a1000ae6a8749f937a31ff6cbc48191b29977da19a2a0bc548df0148ac"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "97ffadc9852dc08c2d2b3c26d9bd8befb42e4e92a02ad8c171f7b960c7eb9b4f"
+hash = "ef4828e5b33f6331ff869f2ff551e7f937e4f4ca5df0f5f8a995d8fa477a83c3"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "de10bdef8fb648f67d5872522993e60902c3d87c6a45102466f2d2c7710e5ccc"
+hash = "f20e4f913819c95adec0c962a28c9a68d19cf6b3f68a3c26230bd086e840f06c"
 metafile = true
 
 [[files]]
