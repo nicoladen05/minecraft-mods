@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/boat-item-view.pw.toml"
-hash = "fe1a70074b24fe087e801bc2405d8e30eff06840c2073d88538b72f9ea7bbde0"
+hash = "358b4815b0daa0b2c49335891cba4b9a1c504c01c576496a2505673cc53a2c25"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bedb0527d6ebb44add8493154fc27f5a40b55e6d8c3e72a74b10e897e23d59a9"
+hash = "b08b435f1d55a818df49e15f5d3bd849c15480956800562e3101caf0ee1999a3"
 metafile = true
 
 [[files]]
