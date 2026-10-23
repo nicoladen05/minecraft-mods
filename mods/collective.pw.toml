@@ -1,13 +1,13 @@
 name = "Collective"
-filename = "collective-26.3.0-8.62.jar"
+filename = "collective-26.3.0-8.64.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/PT0Hir2U/collective-26.3.0-8.62.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/dJ7rP75T/collective-26.3.0-8.64.jar"
 hash-format = "sha512"
-hash = "60724f7a79ce108e2e56bce46007994c0c72f902fd9d05535c9ab1cad4cb15b3017c69251b5a7c0719954a9c7ab9af188fb78f98f740a97231247a788f8dca75"
+hash = "e88ffa8c634ba35c61e34923e26c9906ba15a8f5544777a1c37e450f7bd990e70987b6fa0eb0fcb6415ddda2adc1933a6f023a9762f578fbb5332deb4fd0a64c"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "PT0Hir2U"
+version = "dJ7rP75T"

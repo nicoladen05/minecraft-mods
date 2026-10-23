@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "b08b435f1d55a818df49e15f5d3bd849c15480956800562e3101caf0ee1999a3"
+hash = "6ea93372e8efc89515b4aba3431012064bdc66a715a85400c5b776e179f62066"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "538084be8eddcd5e682ab52c5d2a8d7ba956e1a25cd540389430c25d0eaa513d"
+hash = "ab722aa606514e0847f7824e831efbd67a3afc48fc4d88c4afd88a7959d8c3d6"
 metafile = true
 
 [[files]]
