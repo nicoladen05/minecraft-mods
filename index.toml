@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "ae0c10c368609537d6fadb302d020083268923b8cd7b8aac1dc95c1fcf2929fd"
+hash = "6e613b5ce41149a643c491da757a2f5cf7e7aea53f61a0d2c8a80a3bae6a821f"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6e8ad3605e2c183ba21142f061f14d5b8257b4c081f37063ce36950de1bdbdb8"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
