@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f081b22d7707ee677ee596a2f81aed31a56d4ab96801ce7a7047f923cad3f190"
+hash = "d70fc5809299269a7867133453ab35c186a0eb55a6894ce7b998091e5acd5b3b"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8943b63ce658eeaca3bfea0877048df8fd836b9ec4cb4bce7a98847147db6f25"
+hash = "d3f13a8d1cb46a1fdf38e90e7e82d66b55dc1fa1aec50a0a1cd05ae435f4bd9c"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "1aed8e425e3ba52c904c6fc928642932d148db140f788a204dfd828292b16f19"
+hash = "3bb2439ed9e9fb3fa980112396aead7723bd206289b4055db74b3f560b472f7f"
 metafile = true
 
 [[files]]
