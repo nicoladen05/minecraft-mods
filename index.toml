@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d3f13a8d1cb46a1fdf38e90e7e82d66b55dc1fa1aec50a0a1cd05ae435f4bd9c"
+hash = "778c1cd054ddaee5f5a4821dcbcf94e7e24b7794b9163c91aac789b15784ab3f"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ji-afk-cinematic.pw.toml"
-hash = "3c0d485ca34554ec99c9c406d63ae316b4969cf80e0424ecd865f531b76e3b3a"
+hash = "5e87432e71239e5c2311e80aae3cc8c54b936490e53853d6652654833ba187f0"
 metafile = true
 
 [[files]]
