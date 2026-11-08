@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "ef4828e5b33f6331ff869f2ff551e7f937e4f4ca5df0f5f8a995d8fa477a83c3"
+hash = "5e7a8a550f9e143b502c46aaeb13c02ea4ab60195cf0afe4a3480730a6815ee7"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ee1629e208ad77d0435cfdcf487d82bc7f43881d1e5db2daa443718bd90b59a0"
+hash = "17e93f11bc678344331a11da6b2c3adfb41fb99a9c9f07273ed6b7f02e029c54"
 metafile = true
 
 [[files]]
