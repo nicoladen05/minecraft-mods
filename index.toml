@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bfe60db66ba2ca7362ab5aac09608982c206a4a76a868f729bdf94e3f9beb7d2"
+hash = "236c57b7b7c1561fbf7d5b2a04816a4cc5c3c062819ceb8f183909d2e853b287"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "fc55a57f2a3e5b3f044baf080829c9f5b26ed5eb98097532e845da6019a2f379"
+hash = "6f8e22a7e4012f5f0ea7079ec40f2a913a48a56c899d4ac5f5c6c2b497483e23"
 metafile = true
 
 [[files]]
