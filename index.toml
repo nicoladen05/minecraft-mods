@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7959f11cce0c14ffae150d4a3126b04b70b0af815d25453110d2a8408011e9cb"
+hash = "c63d433459a0757fccc916fc523050ab42cb2fe85990eefc9d8ed797376abdcb"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c1dc85ba25b7ab3cb778e589b5336edb6202d75fcb4d82e93fbe2ccb5d472df8"
+hash = "20ae8988545ab254c96e59c61df18cfd7af58657a8e2badf2d9921af2481912a"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3d70571a3f55ab9d923addc371e87440286436b15141abf1ae780fa90dcbcf7d"
+hash = "de2e449e1257069f5b9570c66c52e30767b498c5722971a9f75a057794114d03"
 metafile = true
 
 [[files]]
