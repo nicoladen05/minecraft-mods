@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+hash = "14547eb6c0001ea7845955fecf7c0093c2a66ce838fb3e532096ebb28114d912"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9ca98e65b9c56937c03c43d7fd3d1964f16ba5b674fc8a48bd4c493c749ec1b5"
+hash = "61feaeb337fd86220304e66f63d1346339e6330c18a1a3f733a4ac12ddd840db"
 metafile = true
 
 [[files]]
