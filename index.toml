@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fab0f8da4e12ee8f400a8f8a95619dc3aa6881ea0821a25f5cc6f2c77ecacf45"
+hash = "62f36b57429e7c081d43050214c6934bc4b2903a28e55dc02daba072c6742a1f"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "24243bf59fa8e8fd2755b3bd20b4b9ea102e6afd3c0adcf92368f0ec3224aed3"
+hash = "b742862cff0de687f121aeeb7f3ac191421c9fe17a5605b51d3d21af0b009576"
 metafile = true
 
 [[files]]
