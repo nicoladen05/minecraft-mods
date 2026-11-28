@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "62f36b57429e7c081d43050214c6934bc4b2903a28e55dc02daba072c6742a1f"
+hash = "bbd30d0fa6d15e6bdd416eb787b9d9f08a0b2fa23564ccf8c7ae39f410a7b211"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
+hash = "d8933d8214355ceb7022346c2fd97e08b2669271c9f8d4bc095f93426ceef4f7"
 metafile = true
 
 [[files]]
